@@ -9,8 +9,11 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1595694548657-8e6f0d681f8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80"
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
+#### **Research:** 
+We has initiated an effort to establish Kerala childhood-onset schizophrenia-cohort (KeCOS-cohort) for long-term follow-up to evaluate the trajectory of the clinical manifestation, symptoms, drug response, quality of life measure, genetics, etc. As part of this effort, we initially plan to use the cohort to study the changes in (i) sleep measures (ii) language skills (iii) cognitive skills during the course of illness from the age of onset to puberty. We also plan to examine the role of genetic variants in etiological differences/similarities with adult-onset schizophrenia.
+<img style="float: right;" src="/assets/software/KeCOS-logos.jpg" alt="drawing" width="400"> 
 
-#### **Research Projects:** 
+#### **Funded Research Projects:** 
 
 | Investigators | Project | Funding agency |
 |-----------------|:---------------:|---------------|

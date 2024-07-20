@@ -32,5 +32,5 @@ header:
 * Sreelakshmi V P, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 * Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 
-### [Interns](https://github.com/cibs-imhans/cibs-imhans.github.io/blob/main/_pages/alum.md#alumni-interns)
+### [Interns](/alum/)
 

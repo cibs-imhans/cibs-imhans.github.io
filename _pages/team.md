@@ -32,21 +32,5 @@ header:
 * Sreelakshmi V P, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 * Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 
-### Interns
-* Devangana Rajan, Undergraduate Research Intern (B.Sc. Neuroscience; University of Glasgow, 2022)
-* Hafneeda Hashim, Graduate Dissertation student (M.Sc. Biotechnology; Kannur University, 2023)
-* Hamdhaan Anees, Undergraduate Research Intern (B.Sc. Biosciences; Bangalore University, 2023)
-* Ans Ria Rose, Undergraduate Research Intern (B.Sc. Biosciences; Bangalore University, 2023)
-* Ardra Prakash, Graduate Research Intern (M.Sc. integrated Biosciences; National Institute of Technology, Rourkela, 2023)
-* Dharshana Raj, Undergraduate Research Intern (B.Sc. Biosciences; Christ University, Bangalore, 2023)
-* Neethusree, Graduate Research Intern (M.Sc. Biotechnology; St Thomas Pala, MG University, Kerala, 2023)
-* Shwetha, Graduate Research Intern (M.Sc. Neuroscience; JSS University, Mysore, Karnataka, 2023)
-* Zenna P H, Graduate Dissertation student (M.Sc. Computational Biology; Kannur University, 2024)
-* Anagha, Graduate Dissertation student (M.Sc. Zoology; St Aloysius Thrissur, University of Calicut, 2024)
-* Krishnendu, Graduate Dissertation student (M.Sc. Zoology; St Aloysius Thrissur, University of Calicut, 2024)
-* Nanditha, Graduate Research Intern (M.Sc. Zoology; Central University of Kerala, 2024)
-* Sharon Shaji, Graduate Research Intern (M.Sc. Zoology; University of Calicut, 2024)
-* Thulasi, Graduate Research Intern (M.Sc. Biotechnology, Kristu Jayanthi College, Bangalore University, Karnataka, 2024)
-* Rajath, Undergraduate Research Intern (B.Tech Biotechnology; Manipal Institute of Technology, Karnataka, 2024)
-* Anagha, Graduate Research Intern (BS-MS Biology; IISER Thiruvananthapuram, Kerala, 2024)
+### [Interns](https://github.com/cibs-imhans/cibs-imhans.github.io/blob/main/_pages/alum.md#alumni-interns)
 

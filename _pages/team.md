@@ -33,4 +33,5 @@ header:
 * Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 
 ### [Interns](/alum/)
+<a href="/alum/"> Interns </a> <br/>
 

@@ -25,13 +25,13 @@ header:
 
 ## Alumni
 
-### Research Fellows
+#### Research Fellows
 * Mubashira V, Junior Research Fellow (DHR Project; 2022-2024)
 
-### Clinical Fellows
+#### Clinical Fellows
 * Sreelakshmi V P, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 * Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 
-### Interns
+#### Interns
 <a href="/alum/"> Click here </a> <br/>
 

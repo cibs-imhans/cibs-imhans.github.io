@@ -25,16 +25,14 @@ header:
 
 ## Alumni
 
-#### Research Fellows
-* Mubashira V | Junior Research Fellow (DHR Project) | 2022 - 2024 | UAE
+#### Research Fellows/Clinical Fellows
 
-<!--- Niketha Manoj|Junior Research Fellow (SERB Project)|2023 - 2024|Graduate Student (NIT-Calicut, Kerala) -->
-
-
-
-#### Clinical Fellows
-* Sreelakshmi V P, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
-* Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
+Name | Role | Year | Current Position
+------------ | ------------ | ------------ | ------------
+Mubashira V | Junior Research Fellow (DHR Project) | 2022 -2024 | UAE
+Sreelakshmi V P | Dissertation Student, MPhil Clinical Psychology, IMHANS | 2023 -2024 | --
+Kartika Jayaprakash | Dissertation Student, MPhil Clinical Psychology, IMHANS | 2024 -2024 | --
+Niketha Manoj | Junior Research Fellow (SERB Project) | 2023 -2024 | Graduate Student (NIT-Calicut, Kerala)
 
 #### Interns
 <a href="/alum/"> Click here </a> <br/>

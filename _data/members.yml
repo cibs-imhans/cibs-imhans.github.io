@@ -30,14 +30,6 @@
   alum: false
   headshot: "/assets/headshots/anu.jpg"
 
-- first: Niketha 
-  last: Manoj
-  role: Junior Research Fellow (SERB-Project) <br> (Molecular Psychiatry)
-  year: 1000000
-  email: ""
-  alum: false
-  headshot: "/assets/headshots/niketha.jpg"
-  
 - first: Aisha
   last: Shaju 
   role: Junior Research Fellow (SERB-Project) <br> (Molecular Psychiatry)
@@ -45,7 +37,6 @@
   email: ""
   alum: false
   headshot: "/assets/headshots/aisha.jpg"
-  
   
 - first: Ranjitha
   last: M

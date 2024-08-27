@@ -38,6 +38,14 @@
   alum: false
   headshot: "/assets/headshots/aisha.jpg"
   
+- first: Jasmine
+  last: John 
+  role: Junior Research Fellow (SERB-Project) <br> (Molecular Psychiatry)
+  year: 1000000
+  email: ""
+  alum: false
+  headshot: "/assets/headshots/jasmine.jpg"
+  
 - first: Ranjitha
   last: M
   role: Research Technician (Cytogenetics)

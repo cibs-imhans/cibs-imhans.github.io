@@ -11,6 +11,8 @@ header:
 {% include lab_member_gallery.html%}
 <!--- {% include lab_alum_gallery.html%} -->
 
+---
+
 ## Collaborators
 ## Alumni
 #### Research Fellows/Clinical Fellows

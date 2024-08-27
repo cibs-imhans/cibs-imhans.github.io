@@ -10,7 +10,6 @@ header:
 ---
 {% include lab_member_gallery.html%}
 <!--- {% include lab_alum_gallery.html%} -->
----
 
 ## Collaborators
 * Dr Anish PK, Department of Psychiatry, Institute of Mental Health and Neuroscience

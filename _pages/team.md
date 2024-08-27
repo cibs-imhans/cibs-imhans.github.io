@@ -26,7 +26,6 @@ header:
 ## Alumni
 
 #### Research Fellows/Clinical Fellows
-
 Name | Role | Year | Current Position
 ------------ | ------------ | ------------ | ------------
 Mubashira V | Junior Research Fellow (DHR Project) | 2022 -2024 | UAE

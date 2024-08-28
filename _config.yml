@@ -119,14 +119,12 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cibs@imhans.ac.in"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-x-twitter-square"
+    - label: "X.com"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://x.com/neurolab_imhans"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/imhans-neuroscience/imhans-neuroscience.github.io"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
       # url:
 
 

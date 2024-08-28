@@ -27,12 +27,8 @@ header:
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
+---
 ## Collaborators
 
 * Dr Anish PK, Department of Psychiatry, Institute of Mental Health and Neuroscience

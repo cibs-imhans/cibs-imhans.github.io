@@ -24,3 +24,23 @@ gallery:
 ---
 
 {% include gallery %}
+{% include lab_member_gallery.html%}
+
+## Collaborators
+* Dr Anish PK, Department of Psychiatry, Institute of Mental Health and Neuroscience
+* Dr Midhun S, Department of Psychiatry, Government Medical College Calicut, Kerala
+* Dr Nishanth JH, Department of Psychiatry, Government Medical College Calicut, Kerala
+* Dr Varsha Vidyadharan, Department of Psychiatry, Government Medical College Calicut, Kerala
+* Dr Divya MS, Department of Pathology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala
+* Dr Dileep KV, Laboratory for Computational and Structural Biology, Jubilee Mission Medical College Hospital and Research Institute, Kerala
+* Dr Neetha Balaram, Department of Neurology, Government Medical College Calicut, Kerala
+
+## Alumni
+#### Research Fellows/Clinical Fellows
+Name | Role | Year | Current Position
+------------ | ------------ | ------------ | ------------
+Mubashira V | Junior Research Fellow (DHR Project) | 2022 -2024 | UAE
+Niketha Manoj | Junior Research Fellow (SERB Project) | 2023 -2024 | Graduate Student (NIT-Calicut, Kerala) 
+
+#### Interns
+<a href="/alum/"> Click here </a> <br/>

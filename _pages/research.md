@@ -29,5 +29,4 @@ header:
 
 #### **Research Management Committees:**
 <a href="/commitee/"> Institutional Biosafety Committee (IBSC) </a> <br/>
-<a href="/commitee/#institutional-committee-for-stem-cell-research-ic-scr"> Institutional Committee for Stem Cell Research (IC-SCR) </a> <br/>
 <a href="/commitee/#institutional-human-ethics-committee-ihec"> Institutional Human Ethics Committee (IHEC) </a> <br/>

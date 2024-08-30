@@ -11,6 +11,35 @@ header:
 ---
 
 
+### **Institutional Human Ethics Committee (IMHANS Ethics Committee) **
+IMHANS Ethics Committee (Reg. No: EC/NEW/INST2023/4210) is entrusted with the responsibility to undertake the ethical review of research proposals prior to initiation, and also have a continuing responsibility to regularly monitor the approved research to ensure ethical compliance during the conduct of research and to ensure that the rights, safety and well-being of research participants is protected. IMHANS Ethics Committee has been constituted to facilitate research involving human subjects in accordance with the ICMR National Ethical Guidelines for Biomedical and Health Research Involving Human Participants, 2017.
+
+**Chairperson**	
+* Dr. Chandni R
+<br/> Professor, Department of General Medicine, Government Medical College, Kozhikode, Kerala
+
+**Vice Chairperson**	
+* Dr. Manu Jose
+<br/> Assistant Professor, Department of Pharmacology, Government Medical College, Kozhikode, Kerala
+
+**Member secretary**
+* Dr. Seema P Uthaman
+<br/> Assistant Professor, Deparment of Psychiatric Social Work, Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
+
+**Member secretary**
+* Dr. Reena George
+<br/> Assistant Professor, Deparment of Psychiatric Nursing, Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
+
+**Members**
+* Dr. Amrutha Radhakrishan (Clinician)
+* Adv Thilakananthan C (Legal Expert)
+* Damodaran N K (Lay Person)
+* Dr Biju George (Scientific Member)
+* Dr Chandramukhi Kotian (Social Scientist)
+* Dr Harish M T (Psychiatry)
+* Dr Jayanthi M R (Nursing)
+
+---
 ### **Institutional Biosafety Committee (IBSC)**
 As mandated in the Rules 1989 of Environment (Protection) Act 1986, IMHANS has constituted an institutional biosafety committee (BT/IKBP/636/2022) as per the guidelines of the Department of Biotechnology (DBT), Government of India. IBSC facilitates the research involving recombinant-DNA (rDNA) materials, genetically modified organisms (GMOs), and living modified organisms (LMOs) and implements biosafety procedures to ensure safety to the users as well as to the environment.
 
@@ -42,7 +71,3 @@ As mandated in the Rules 1989 of Environment (Protection) Act 1986, IMHANS has c
 **Internal Members**
 * Dr Shabeesh Balan
 <br/> Scientist D, Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
-
-### **Institutional Committee for Stem Cell Research (IC-SCR)**
-
-### **Institutional Human Ethics Committee (IHEC)**

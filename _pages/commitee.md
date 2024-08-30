@@ -11,7 +11,7 @@ header:
 ---
 
 
-### **Institutional Human Ethics Committee (IMHANS Ethics Committee) **
+### **Institutional Human Ethics Committee (IMHANS Ethics Committee)**
 IMHANS Ethics Committee (Reg. No: EC/NEW/INST2023/4210) is entrusted with the responsibility to undertake the ethical review of research proposals prior to initiation, and also have a continuing responsibility to regularly monitor the approved research to ensure ethical compliance during the conduct of research and to ensure that the rights, safety and well-being of research participants is protected. IMHANS Ethics Committee has been constituted to facilitate research involving human subjects in accordance with the ICMR National Ethical Guidelines for Biomedical and Health Research Involving Human Participants, 2017.
 
 **Chairperson**	

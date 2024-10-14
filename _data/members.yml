@@ -61,6 +61,14 @@
   alum: false
   email: ""
   headshot: "/assets/headshots/ranjitha.jpeg"
+
+- first: Shibila
+  last: AM
+  year: 1000000
+  role: Technical Assistant <br> (Electrophysiology)
+  email: ""
+  headshot: "/assets/headshots/shibila.jpeg"
+  alum: false
   
 - first: Shilpa
   last: O

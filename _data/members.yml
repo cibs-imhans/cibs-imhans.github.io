@@ -77,15 +77,7 @@
   alum: false
   email: ""
   headshot: "/assets/headshots/MIdhun.jpg"
-  
-- first: Midhun
-  last: Sidharthan
-  role: Visiting Researcher
-  year: 2022
-  alum: false
-  email: ""
-  headshot: "/assets/headshots/MIdhun.jpg"
-  
+ 
 - first: Nishanth
   last: JH
   role: Visiting Researcher 

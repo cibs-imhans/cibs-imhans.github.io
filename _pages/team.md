@@ -11,23 +11,6 @@ header:
 {% include lab_member_gallery.html%}
 <!--- {% include lab_alum_gallery.html%} -->
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ---
 ## Collaborators
 
@@ -38,6 +21,7 @@ header:
 * Dr Divya MS, Department of Pathology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala
 * Dr Dileep KV, Laboratory for Computational and Structural Biology, Jubilee Mission Medical College Hospital and Research Institute, Kerala
 * Dr Neetha Balaram, Department of Neurology, Government Medical College Calicut, Kerala
+
 <br />
 
 ## Alumni

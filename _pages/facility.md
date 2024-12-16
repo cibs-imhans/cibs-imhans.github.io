@@ -19,6 +19,7 @@ header:
 ##### **Neurophysiology:** 
 <font size = "4"> Video Electroencephalography (EEG), Polysomnography (PSG), Brainstem Evoked Response Audiometry (BERA), Visual Evoked Potential (VEP), Nerve Conduction Studies (NCS) and Electromyography (EMG).</font>
 
+#### Details of our facilities
 
 | Instrument                            | Brand                                     | Category             |
 |---------------------------------------|-------------------------------------------|----------------------|

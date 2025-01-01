@@ -13,7 +13,7 @@ header:
 
 | Name | Internship | Course | Institution | Year |
 |-----------------|-------------|-------------|---------------|---------------|
-| Sisira Surendran | Graduate Research Intern  | Integrated MSc Biological Sciences | CUSAT Kozhi, Kerala | 2024 |
+| Sisira Surendran | Graduate Research Intern  | Integrated MSc Biological Sciences | CUSAT Kochi, Kerala | 2024 |
 | Anagha | Graduate Research Intern  | BS-MS Biology | IISER Thiruvananthapuram, Kerala | 2024 |
 | Rajath | Undergraduate Research Intern  | BTech Biotechnology | Manipal Institute of Technology, Manipal, Karnataka | 2024 |
 | Thulasi | Graduate Research Intern  | MSc Biotechnology | Kristu Jayanthi College, Bangalore University, Karnataka | 2024 |

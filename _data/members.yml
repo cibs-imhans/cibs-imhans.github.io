@@ -1,11 +1,11 @@
-- first: Krishnakumar
-  last: Padinharath
-  role: Director and Research Investigator (Professor)
+- first: <a href="https://scholar.google.com/citations?hl=en&user=4J0rrcEAAAAJ&view_op=list_works&sortby=pubdate">Rajith Ravindren</a>
+  last: 
+  role: Research Investigator (Assistant Professor)
   year: 1000000
-  headshot: "/assets/headshots/kk.JPG"
-  email: ""
   alum: false
-  
+  email: ""
+  headshot: "/assets/headshots/rajith.jpg"
+ 
 - first: <a href="https://linktr.ee/shabeeshbalan">Shabeesh Balan</a>
   last: 
   role: Research Investigator (Scientist; DHR Faculty fellow)
@@ -93,5 +93,6 @@
   alum: false
   email: ""
   headshot: "/assets/headshots/nishanth.jpg"
+
   
 ---

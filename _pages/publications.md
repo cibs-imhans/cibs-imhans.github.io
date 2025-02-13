@@ -11,9 +11,9 @@ header:
 ---
 ## Selected Publications
 #### 2024
-* **Rajith, K.R.**, Rajesh, T.V., **Shibila, A.**, Neetha, B., Prasad, T.V., Sajin, A.V., Arun, K.A., Suja, M., **Krishnakumar, P.**, and **Balan, S.** (2024). [Sequential Presentation of Obsessive-Compulsive Disorder and Narcolepsy in a Ten-Year-Old Girl with Wolfram Syndrome 1.](https://doi.org/10.1097/NMD.0000000000001784) *The Journal of Nervous and Mental Disease*; 212 (7), 403-405
+* **Rajith, K.R.***, Rajesh, T.V., **Shibila, A.**, Neetha, B., Prasad, T.V., Sajin, A.V., Arun, K.A., Suja, M., **Krishnakumar, P.**, and **Balan, S.** * (2024). [Sequential Presentation of Obsessive-Compulsive Disorder and Narcolepsy in a Ten-Year-Old Girl with Wolfram Syndrome 1.](https://doi.org/10.1097/NMD.0000000000001784) *The Journal of Nervous and Mental Disease*; 212 (7), 403-405
 * Jouhar, H.A., **P. Krishnakumar**, and **K.R. Ravindren*** (2024), [Montelukast-Induced Behavioral Problems in a Child With Bronchial Asthma.](https://doi.org/10.4088/PCC.24cr03750) *The Primary Care Companion for CNS Disorders*; 26(5)
-* **Rajith, R.K.**, Suja, M., and **Krishnakumar, P.** (2024). [Obsessive-compulsive disorder in a very young child.](https://doi.org/10.4103/ipj.ipj_327_23) *Industrial Psychiatry Journal.*; 33 (2), 421-422
+* **Rajith, R.K.***, Suja, M., and **Krishnakumar, P.** (2024). [Obsessive-compulsive disorder in a very young child.](https://doi.org/10.4103/ipj.ipj_327_23) *Industrial Psychiatry Journal.*; 33 (2), 421-422
 
 #### 2023
 * Balaram, N.* , Jose, J., Gafoor, A., Balachandran, S., Saritha, F., Dileep, K.V. & **Balan, S***. (2023) [Acetazolamide responsive early-onset absence epilepsy and ataxia in a toddler with a KCNA2 genetic variant; a case report.](https://doi.org/10.1016/j.seizure.2023.06.013) *Seizure*; 110, 157 - 159

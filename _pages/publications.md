@@ -30,7 +30,7 @@ header:
 * Hara, T., Toyoshima, M., Hisano, Y., **Balan, S.**, Iwayama, Y., Aono, H., Futamura, Y., Osada, H., Owada, Y., & Yoshikawa, T. (2021), [Glyoxalase I disruption and external carbonyl stress impair mitochondrial function in human induced pluripotent stem cells and derived neurons](https://doi.org/10.1038/s41398-021-01392-w), *Translational Psychiatry*, 11, 275
 * **Balan, S.**, Ohnishi, T., Watanabe, A., Ohba, H., Iwayama, Y., Toyoshima, M., Hara, T., Hisano, Y., Miyasaka, Y., Toyota, T., Shimamoto-Mitsuyama, C., Maekawa, M., Numata, S., Ohmori, T., Shimogori, T., Kikkawa, Y., Hayashi, T. & Yoshikawa, T. (2021) [Role of an atypical cadherin gene, Cdh23 in prepulse inhibition and implication of CDH23 in schizophrenia](https://doi.org/10.1093/schbul/sbab007), *Schizophrenia Bulletin*, 47; 4, 1190–1200.
 
-(# Corressponding author)
+
 <!-- {% assign journal_list = site.publications.journals | join: ";" %} -->
 <!-- {% include scholar/_includes/publications venue=journal_list link=true %} --> 
 ## News

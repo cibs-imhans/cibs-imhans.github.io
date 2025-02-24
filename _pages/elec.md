@@ -10,4 +10,4 @@ header:
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
 
-* Electrophysiological and sleep characterisation in familial somniloquy
+## **Genetic, Electrophysiological, and Sleep characterisation in familial somniloquy**

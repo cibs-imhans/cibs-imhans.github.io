@@ -11,7 +11,7 @@ header:
 ---
 ## Selected Publications
 #### 2025
-* Sreekumar, S., A. L, and **R.K. Ravindren**, (2025). [Bridging the Gap: Cognitive Science Perspectives and Artificial Intelligence for Prediction and Detection of Specific Learning Disabilities.](https://doi.org/10.1109/TCDS.2025.3562665) *IEEE Transactions on Cognitive and Developmental Systems*; p. 1-16.
+* Sreekumar, S., A. Lijiya, and **R.K. Ravindren**, (2025). [Bridging the Gap: Cognitive Science Perspectives and Artificial Intelligence for Prediction and Detection of Specific Learning Disabilities.](https://doi.org/10.1109/TCDS.2025.3562665) *IEEE Transactions on Cognitive and Developmental Systems*; p. 1-16.
 
 #### 2024
 * **Rajith, K.R.** #, Rajesh, T.V., **Shibila, A.**, Neetha, B., Prasad, T.V., Sajin, A.V., Arun, K.A., Suja, M., **Krishnakumar, P.**, and **Balan, S.**# (2024). [Sequential Presentation of Obsessive-Compulsive Disorder and Narcolepsy in a Ten-Year-Old Girl with Wolfram Syndrome 1.](https://doi.org/10.1097/NMD.0000000000001784) *The Journal of Nervous and Mental Disease*; 212 (7), 403-405

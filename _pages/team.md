@@ -28,6 +28,7 @@ Name | Role | Year | Current Position
 ------------ | ------------ | ------------ | ------------
 Mubashira V | Junior Research Fellow (DHR Project) | 2022 -2024 | UAE
 Niketha Manoj | Junior Research Fellow (SERB Project) | 2023 -2024 | Graduate Student (NIT-Calicut, Kerala) 
+Shibila A M | Technical Assistant (Electrophysiology) | 2019 -2025 | Electrophysiologist, Dubai
 
 #### Interns
 <a href="/alum/"> Click here </a> <br/>

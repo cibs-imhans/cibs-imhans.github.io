@@ -15,6 +15,9 @@ header:
 |-----------------|-------------|-------------|---------------|---------------|
 | Swathishma | Graduate Research Intern  | MTech Bioengineering | National Institute of Technology Calicut, Kerala | 2025 |
 | Sangeeth Kumar T V | Graduate Research Intern  | MSc Biotechnology | Kannur University, Kerala | 2025 |
+| Panchami V | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |
+| Dhinila Dheeraj | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |
+| Vufila Umar TP | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |
 | Sisira Surendran | Graduate Research Intern  | Integrated MSc Biological Sciences | CUSAT Kochi, Kerala | 2024 |
 | Anagha | Graduate Research Intern  | BS-MS Biology | IISER Thiruvananthapuram, Kerala | 2024 |
 | Rajath | Undergraduate Research Intern  | BTech Biotechnology | Manipal Institute of Technology, Manipal, Karnataka | 2024 |

@@ -13,6 +13,7 @@ header:
 
 | Name | Internship | Course | Institution | Year |
 |-----------------|-------------|-------------|---------------|---------------|
+| Ashiqa N | Graduate Research Intern  | MSc Biotechnology | Jamia Millia Islamia, New Delhi | 2025 |
 | Swathishma | Graduate Research Intern  | MTech Bioengineering | National Institute of Technology Calicut, Kerala | 2025 |
 | Sangeeth Kumar T V | Graduate Research Intern  | MSc Biotechnology | Kannur University, Kerala | 2025 |
 | Panchami V | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |

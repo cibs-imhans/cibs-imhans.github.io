@@ -46,14 +46,6 @@
   alum: false
   headshot: "/assets/headshots/jasmine.jpg"
 
-- first: Varun
-  last: TK
-  role: Project Assistant (SERB-SURE Project) <br> (Molecular Psychiatry)
-  year: 1000000
-  alum: false
-  email: ""
-  headshot: "/assets/headshots/varun.jpg"
- 
 - first: Ranjitha
   last: M
   role: Research Technician (Cytogenetics)
@@ -70,14 +62,6 @@
   headshot: "/assets/headshots/najiya.jpg"
   alum: false
   
-- first: Shilpa
-  last: O
-  year: 1000000
-  role: Visiting Researcher <br> (Post doctoral fellow)
-  email: ""
-  headshot: "/assets/headshots/shilpa.jpg"
-  alum: false
-
 - first: Midhun
   last: Sidharthan
   role: Visiting Researcher

@@ -29,6 +29,8 @@ Name | Role | Year | Current Position
 Mubashira V | Junior Research Fellow (DHR Project) | 2022 -2024 | UAE
 Niketha Manoj | Junior Research Fellow (SERB Project) | 2023 -2024 | Graduate Student (NIT-Calicut, Kerala) 
 Shibila A M | Technical Assistant (Electrophysiology) | 2019 -2025 | Electrophysiologist, Dubai
+Varun T K | Project Fellow (SERB-SURE) | 2024 -2025 | Data Scientist, Centre for Integrative Omics Data Science, Yenepoya University
+Shilpa O | Visiting researcher (post-doctoral fellow) | 2023 -2025 | Assistant Professor, Nitte University Centre for Science Education & Research
 
 #### Interns
 <a href="/alum/"> Click here </a> <br/>

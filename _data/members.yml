@@ -84,7 +84,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: ""
+  headshot: "/assets/headshots/placeholder.jpg"
 
 - first: 
   last: 
@@ -92,7 +92,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: ""
+  headshot: "/assets/headshots/placeholder.jpg"
 
 
   

@@ -36,3 +36,6 @@ research_areas:
 {% include feature_row id="research_intro" type = "justify" %}
 {% include feature_row id="research_areas" %}
 {% include tweets.html %}
+
+## News
+<marquee direction = "left"><a href="https://cibs-imhans.github.io/publications/"> New publication in collaboration with Multidisciplinary Research Unit, Govt Medical College Trivandrum </a> </marquee>

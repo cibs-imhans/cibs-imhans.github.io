@@ -38,4 +38,4 @@ research_areas:
 {% include tweets.html %}
 
 ## News
-<marquee direction = "left"><a href="https://cibs-imhans.github.io/publications/"> New publication in collaboration with Multidisciplinary Research Unit, Govt Medical College Trivandrum </a> </marquee>
+<marquee direction = "left"><a href="https://cibs-imhans.github.io/publications/"> New Collaborative Publication! Joint research with the Multidisciplinary Research Unit (MRU), Government Medical College, Thiruvananthapuram, published in Molecular Biology Reports </a> </marquee>

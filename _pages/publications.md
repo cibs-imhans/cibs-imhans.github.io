@@ -11,7 +11,7 @@ header:
 ---
 ## Selected Publications
 #### 2025
-* Sasidharan, S.P., James, S., **Balan, S.** & Manakkadan, A., (2025). [An optimized protocol for isolating Rhinosporidium seeberi sporangia from rhinosporidiosis tissue and extracting genomic DNA for next-generation sequencing](). *Molecular Biology Reports* (accepted; in press)
+* Sasidharan, S.P., James, S., **Balan, S.** & Manakkadan, A., (2025). [An optimized protocol for isolating Rhinosporidium seeberi sporangia from rhinosporidiosis tissue and extracting genomic DNA for next-generation sequencing](https://doi.org/10.1007/s11033-025-11280-x). *Molecular Biology Reports* (accepted; in press)
 * Sreekumar, S., A. Lijiya, and **R.K. Ravindren**, (2025). [Bridging the Gap: Cognitive Science Perspectives and Artificial Intelligence for Prediction and Detection of Specific Learning Disabilities.](https://doi.org/10.1109/TCDS.2025.3562665) *IEEE Transactions on Cognitive and Developmental Systems*; p. 1-16.
 
 #### 2024

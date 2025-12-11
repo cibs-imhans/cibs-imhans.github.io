@@ -11,7 +11,7 @@ header:
 
 
 # **Sequence to Synapse**  
-### *A Workshop on Molecular Neuroscience Techniques*
+### A Workshop on Molecular Neuroscience Techniques
 <img style ="float: left;" src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="600">
 
 ---
@@ -61,7 +61,8 @@ Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health a
 
 ## **Organizers**
 - **Rajith K Ravindren** (PI: ANRF Project, Department of Psychiatry and Center for Interdisciplinary Brain Sciences (CIBS), IMHANS, Kerala)  
-- **Shabeesh Balan** (PI: ANRF Project, Center for Interdisciplinary Brain Sciences (CIBS), IMHANS, Kerala)  
+- **Shabeesh Balan** (PI: ANRF Project, Center for Interdisciplinary Brain Sciences (CIBS), IMHANS, Kerala)
+  
 ---
 
 ## **Contact**

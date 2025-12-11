@@ -8,10 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: "assets/software/Sequence_to_synapse_header.PNG"
 ---
-<img src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="600">
+<img src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="1200">
 
-# **Sequence to Synapse**  
-### A Workshop on Molecular Neuroscience Techniques
+# **Sequence to Synapse: A Workshop on Molecular Neuroscience Techniques**
 
 ---
 ## **About the Workshop**
@@ -20,6 +19,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 ---
 ## **Dates**
 - 18–19 December 2025
+  
 ## **Venue**
 - Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
 

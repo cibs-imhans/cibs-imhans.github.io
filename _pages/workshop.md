@@ -10,9 +10,6 @@ header:
 ---
 <img src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="1200">
 
-# **Sequence to Synapse: A Workshop on Molecular Neuroscience Techniques**
-
----
 ## **About the Workshop**
 A two-day hands-on training program introducing undergraduate students to molecular biology and electrophysiological techniques employed in molecular neuroscience research, organised by the Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health and Neurosciences (IMHANS), Kerala, under Anusandhan National Research Foundation (Government of India) Scientific Social Responsibility program
 

@@ -8,11 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: "assets/software/Sequence_to_synapse_header.PNG"
 ---
-
+<img src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="600">
 
 # **Sequence to Synapse**  
 ### A Workshop on Molecular Neuroscience Techniques
-<img style ="float: left;" src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="600">
 
 ---
 ## **About the Workshop**
@@ -20,9 +19,9 @@ A two-day hands-on training program introducing undergraduate students to molecu
 
 ---
 ## **Dates**
-- **18–19 December 2025**
+- 18–19 December 2025
 ## **Venue**
-- **Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala**
+- Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
 
 ---
 ## **Eligibility**
@@ -30,8 +29,9 @@ A two-day hands-on training program introducing undergraduate students to molecu
 - Life Sciences, Biotechnology, Biochemistry, Zoology, Psychology, Neuroscience, Medical Sciences and related areas
   
 ## **Registration**
-- **Registration:** Free (first come, first-served), **Limited Seats:** 25  
-<img style ="float: left;" src="/assets/software/registration.png" alt="drawing" width="200">
+- **Registration:** Free (first come, first-served), **Limited Seats:** 25
+<br><br style="clear: both;">
+<img src="/assets/software/registration.png" alt="drawing" width="200">
 
 ## **Certificates**
 - Upon completion of the workshop

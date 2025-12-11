@@ -26,7 +26,9 @@ A two-day hands-on training program introducing undergraduate students to molecu
 - Life Sciences, Biotechnology, Biochemistry, Zoology, Psychology, Neuroscience, Medical Sciences and related areas
   
 ## **Registration**
-- **Registration:** Free (first come, first-served), **Limited Seats:** 25
+- **Registration:** Free (first-come, first-served),
+- **Limited Seats:** 25
+- **Deadline:** 16 December 2025; 5:00 PM
 <br><br style="clear: both;">
 <img src="/assets/software/registration.png" alt="drawing" width="200">
 
@@ -63,9 +65,9 @@ Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health a
 ---
 
 ## **Contact**
-- **Jasmine John**  
-- **Aisha Shaju**  
-- **Anusree A Kumar**
+- [Jasmine John](jasminejohn2003@gmail.com)
+- [Aisha Shaju](aishashaju99@gmail.com)
+- [Anusree A Kumar]()
 
 ---
 #### Access
@@ -75,6 +77,6 @@ Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health a
 #### Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.3691460247987!2d75.8445681!3d11.279130500000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2b835a6fdd9c17fb!2sInstitute%20of%20Mental%20Health%20and%20Neuro%20Sciences%20(IMHANS)%2C%20Kozhikode!5e1!3m2!1sen!2sin!4v1665502868478!5m2!1sen!2sin" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
+<br><br style="clear: both;">
 
 <img src="/assets/CBNR1.png" alt="drawing" width="200"/> <img src="/assets/software/imhans.jpg" alt="drawing" width="350" /> <img src="/assets/software/anrf.jpg" alt="drawing" width="250" />

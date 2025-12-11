@@ -38,4 +38,5 @@ research_areas:
 {% include tweets.html %}
 
 ## News
-<marquee direction = "left"><a href="https://doi.org/10.1007/s11033-025-11280-x"> New Collaborative Publication! Joint research with the Multidisciplinary Research Unit (MRU), Government Medical College, Thiruvananthapuram, published in Molecular Biology Reports </a> </marquee>
+<marquee direction = "left"><a href="/workshop/"> Sequence to Synapse: A two-day hands-on training program introducing undergraduate students to molecular biology and electrophysiological techniques </a> </marquee>
+

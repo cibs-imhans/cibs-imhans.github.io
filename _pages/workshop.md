@@ -12,7 +12,7 @@ header:
 
 # **Sequence to Synapse**  
 ### *A Workshop on Molecular Neuroscience Techniques*
-<img style ="float: right;" src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="600">
+<img style ="float: left;" src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="600">
 
 ---
 ## **About the Workshop**
@@ -31,7 +31,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
   
 ## **Registration**
 - **Registration:** Free (first come, first-served), **Limited Seats:** 25  
-<img style ="float: right;" src="/assets/software/registration.png" alt="drawing" width="200">
+<img style ="float: left;" src="/assets/software/registration.png" alt="drawing" width="200">
 
 ## **Certificates**
 - Upon completion of the workshop

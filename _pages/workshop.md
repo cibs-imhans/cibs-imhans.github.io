@@ -29,6 +29,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 - **Registration:** Free (first-come, first-served),
 - **Limited Seats:** 25
 - **Deadline:** 15 December 2025; 5:00 PM
+- **Selected list of candidates will be published [here]() on 16th December 2025**
 <br><br style="clear: both;">
 <img src="/assets/software/registration.png" alt="drawing" width="200">
 

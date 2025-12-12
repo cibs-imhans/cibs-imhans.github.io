@@ -39,7 +39,8 @@ A two-day hands-on training program introducing undergraduate students to molecu
   
 ---
 
-# **Workshop Details**
+# **Workshop Details** 
+## (Tentative: Schedule will be updated by 15th December 2025)
 ## **DAY 1 – MOLECULAR BIOLOGY**
 - DNA Extraction  
 - PCR  

@@ -6,7 +6,7 @@ permalink: /workshop/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "assets/software/Sequence_to_synapse_header.PNG"
+  overlay_image: 
 ---
 <img src="/assets/software/Sequence_to_synapse_header.PNG" alt="drawing" width="1200">
 

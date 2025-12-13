@@ -15,7 +15,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 
 ---
 ## **Dates**
-- 18–19 December 2025
+- 18–19 December 2025 (Timings: 09:00 - 16:00)
   
 ## **Venue**
 - Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala

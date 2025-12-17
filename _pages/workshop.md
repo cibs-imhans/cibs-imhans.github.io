@@ -30,10 +30,9 @@ A two-day hands-on training program introducing undergraduate students to molecu
 ## **Registration**
 - **Registration:** Free
 - **Limited Seats:** 25
-- **Deadline:** 15 December 2025; 5:00 PM
+- **Deadline:** 15 December 2025; 5:00 PM (**Registration Closed**)
 - **Selected list of candidates will be published here** <a href="/workshopselected/"> Selected Candidates
-<br><br style="clear: both;">
-<img src="/assets/software/registration.png" alt="drawing" width="200">
+- [Code of Conduct](/coc/) for the selected participants
 
 ## **Certificates**
 - Upon completion of the workshop
@@ -71,6 +70,7 @@ Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health a
 ## **Contact**
 Jasmine John - jasminejohn2003@gmail.com
 Aisha Shaju - (aishashaju99@gmail.com
+
 
 ---
 #### Access

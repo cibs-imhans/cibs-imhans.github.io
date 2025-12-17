@@ -67,9 +67,8 @@ Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health a
 ---
 
 ## **Contact**
-- [Jasmine John](jasminejohn2003@gmail.com)
-- [Aisha Shaju](aishashaju99@gmail.com)
-- [Anusree A Kumar]()
+- jasminejohn2003@gmail.com
+- (aishashaju99@gmail.com
 
 ---
 #### Access

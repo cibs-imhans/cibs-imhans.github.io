@@ -31,7 +31,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 - **Registration:** Free
 - **Limited Seats:** 25
 - **Deadline:** 15 December 2025; 5:00 PM (**Registration Closed**)
-- **Selected list of candidates will be published here** <a href="/workshopselected/"> Selected Candidates
+- Selected list of candidates will be published HERE [](/workshopselected/") 
 - [Code of Conduct](/coc/) for the selected participants
 
 ## **Certificates**

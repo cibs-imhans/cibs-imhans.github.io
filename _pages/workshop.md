@@ -41,19 +41,8 @@ A two-day hands-on training program introducing undergraduate students to molecu
 ---
 
 # **Workshop Details** 
-## (Tentative: Schedule will be updated by 15th December 2025)
-## **DAY 1 – MOLECULAR BIOLOGY**
-- DNA Extraction  
-- PCR  
-- Gel Electrophoresis  
-- Introduction to DNA Sequencing  
-- Basic Bioinformatics (QC & Interpretation)
-
-## **DAY 2 – ELECTROPHYSIOLOGY**
-- Basics of Neuronal Electrical Activity  
-- Electrophysiology Setup Demonstration  
-- Recording & Visualizing Signals  
-- Noise Filtering & Spike Detection  
+## [Day1]()
+## [Day2]()
 
 ---
 # **Organised by**

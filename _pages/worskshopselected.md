@@ -9,6 +9,9 @@ header:
   caption:
 ---
 
+### We thank all applicants for their interest. As the number of applications exceeded the available seats, only a limited number of participants could be selected. We encourage others to apply for future programs. Since this program is intended for undergraduates, applications from Master’s students were not considered. A separate workshop for Master’s students will be organized in the coming year.
+
+
 | No. | Name | Institution |
 |-----|------|-------------|
 | 1 | AKSHAY K | CHRIST COLLEGE IRINJALAKUDA, THRISSUR |

@@ -40,8 +40,35 @@ A two-day hands-on training program introducing undergraduate students to molecu
 ---
 
 # **Workshop Details** 
-## [Day1]()
-## [Day2]()
+## Day 1
+| Time           | Session |
+|----------------|---------|
+| 09:00 – 09:30  | Registration |
+| 09:30 – 09:45  | Introduction to the Program |
+| 09:45 – 10:00  | Introducing the Participants |
+| 10:00 – 10:30  | Introduction to Neurobiology |
+| 10:30 – 11:00  | What Do Researchers Do? |
+| 11:00 – 11:15  | Tea Break |
+| 11:15 – 11:45  | Introduction to Behavioural Neuroscience |
+| 11:45 – 12:30  | Neurobehavioral Assessments and Tasks |
+| 12:30 – 13:00  | How to Measure Brain Signals |
+| 13:00 – 13:45  | Photo Session & Lunch |
+| 13:45 – 15:30  | EEG, Polysomnography (PSG) / Sleep Recording, Nerve Conduction Tests – Demonstration |
+| 15:30 – 16:00  | Working in a Molecular Biology Lab: Good Laboratory Practices |
+| 16:00 – 16:15  | Tea |
+
+## Day 2
+| Time           | Session |
+|----------------|---------|
+| 09:00 – 09:30  | Molecular Biology Tools to Study Neuroscience |
+| 09:30 – 11:15  | Molecular Biology Techniques: DNA Isolation from Different Sources |
+| 11:15 – 11:30  | Tea Break |
+| 11:30 – 13:00  | DNA Isolation (Continued), Gel Electrophoresis, Polymerase Chain Reaction (PCR) |
+| 13:00 – 13:45  | Lunch |
+| 13:45 – 15:00  | PCR and Gel Electrophoresis, Sanger Sequencing – Demonstration |
+| 15:00 – 15:30  | Cytogenetics – Demonstration |
+| 15:30 – 15:45  | Concluding Remarks & Feedback |
+| 15:45 – 16:00  | Tea |
 
 ---
 # **Organised by**

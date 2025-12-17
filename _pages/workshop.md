@@ -41,6 +41,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 
 # **Workshop Details** 
 ## Day 1
+
 | Time           | Session |
 |----------------|---------|
 | 09:00 – 09:30  | Registration |
@@ -57,7 +58,10 @@ A two-day hands-on training program introducing undergraduate students to molecu
 | 15:30 – 16:00  | Working in a Molecular Biology Lab: Good Laboratory Practices |
 | 16:00 – 16:15  | Tea |
 
+
+
 ## Day 2
+
 | Time           | Session |
 |----------------|---------|
 | 09:00 – 09:30  | Molecular Biology Tools to Study Neuroscience |

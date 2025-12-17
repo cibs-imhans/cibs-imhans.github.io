@@ -35,9 +35,8 @@ A two-day hands-on training program introducing undergraduate students to molecu
 - [Code of Conduct](/coc/) for the selected participants
 
 ## **Certificates**
-- Upon completion of the workshop
+- Certificates can be downloaded from [here]() upon completion of the workshop
 
-  
 ---
 
 # **Workshop Details** 

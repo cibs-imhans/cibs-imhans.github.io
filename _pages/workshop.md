@@ -1,4 +1,4 @@
----
+----
 layout: splash
 classes: wide
 title: Workshop
@@ -26,7 +26,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 - Life Sciences, Biotechnology, Biochemistry, Zoology, Psychology, Neuroscience, Medical Sciences and related areas
   
 ## **Registration**
-- **Registration:** Free (first-come, first-served),
+- **Registration:** Free
 - **Limited Seats:** 25
 - **Deadline:** 15 December 2025; 5:00 PM
 - **Selected list of candidates will be published [here]() on 16th December 2025**

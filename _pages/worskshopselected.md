@@ -9,8 +9,7 @@ header:
   caption:
 ---
 
-We thank all applicants for their interest. As the number of applications exceeded the available seats, only a limited number of participants could be selected. We encourage others to apply for future programs. Since this program is intended for undergraduates, applications from Master’s students were not considered. A separate workshop for Master’s students will be organized in the coming year.
-
+### We thank all applicants for their interest. As the number of applications exceeded the available seats, only a limited number of participants could be selected. We encourage others to apply for future programs.
 
 | No. | Name | Institution |
 |-----|------|-------------|
@@ -39,3 +38,5 @@ We thank all applicants for their interest. As the number of applications exceed
 | 23 | FAHMA NAZIR | UNIVERSITY OF CALICUT, MALAPPURAM |
 | 24 | AARON SALIL | UNIVERSITY OF CALICUT, MALAPPURAM |
 | 25 | HIMA KALATH | UNIVERSITY OF CALICUT, MALAPPURAM |
+
+Since this program is intended for undergraduates, applications from Master’s students were not considered. A separate workshop for Master’s students will be organized in the coming year.

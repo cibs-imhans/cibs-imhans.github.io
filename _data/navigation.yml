@@ -9,5 +9,7 @@ main:
     url: /publications/
   - title: "Academic"
     url: /academic/
+  - title: "Events"
+    url: /contact/
   - title: "Contact"
     url: /contact/

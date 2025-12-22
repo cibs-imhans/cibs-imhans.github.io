@@ -40,7 +40,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 ---
 
 # **Workshop Details** 
-## Day 1
+## Day 1 (18-12-2025)
 
 | Time           | Session |
 |----------------|---------|
@@ -60,7 +60,7 @@ A two-day hands-on training program introducing undergraduate students to molecu
 
 
 
-## Day 2
+## Day 2 (19-12-2025)
 
 | Time           | Session |
 |----------------|---------|

@@ -83,13 +83,6 @@ Center for Interdisciplinary Brain Sciences (CIBS), Institute of Mental Health a
 ## **Organizers**
 - **Rajith K Ravindren** (PI: ANRF Project, Department of Psychiatry and Center for Interdisciplinary Brain Sciences (CIBS), IMHANS, Kerala)  
 - **Shabeesh Balan** (PI: ANRF Project, Center for Interdisciplinary Brain Sciences (CIBS), IMHANS, Kerala)
-  
----
-
-## **Contact**
-- Jasmine John - jasminejohn2003@gmail.com (+91-INDIA-7208834357)
-- Aisha Shaju - aishashaju99@gmail.com (+91-INDIA-8137091391)
-
 
 ---
 ### Access

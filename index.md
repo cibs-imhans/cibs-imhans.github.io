@@ -38,6 +38,5 @@ research_areas:
 {% include tweets.html %}
 
 ## News
-<a href="/workshop/"> Sequence to Synapse: A two-day hands-on training program
 <marquee direction = "left"><a href="/workshop/"> Sequence to Synapse: A two-day hands-on training program introducing undergraduate students to molecular biology and electrophysiological techniques </a> </marquee>
 

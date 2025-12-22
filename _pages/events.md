@@ -9,3 +9,10 @@ header:
   overlay_image: 
   caption: 
 ---
+
+
+## Events Organised
+#### 2022
+* [IMHANS Seminar Series in Psychiatry and Behavioral Neuroscience 2022](https://imhansseminarseries.github.io/)
+#### 2025
+* [Sequence to Synapse: A two-day hands on workshop on Molecular Neuroscience Techniques](https://cibs-imhans.github.io/workshop/)

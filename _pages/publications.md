@@ -41,9 +41,6 @@ header:
 <!--  {% assign journal_list = site.publications.journals | join: ";" %}  -->
 <!--  {% include scholar/_includes/publications venue=journal_list link=true %}  --> 
 
-## News
-<marquee direction = "left"><a href="https://imhansseminarseries.github.io/"> IMHANS Seminar Series in Psychiatry and Behavioral Neuroscience 2022 </a> </marquee>
-
 <!--
 ## Conference
 {% include scholar/_includes/publications venue_search="congress;symposium;conference" link=true %}

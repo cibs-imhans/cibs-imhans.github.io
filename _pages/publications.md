@@ -12,7 +12,7 @@ header:
 ## Selected Publications
 
 #### 2026
-* **Ravindren, R.**, Ratheesh, R.S. & Veedu, P.T. (2026). [Aphantasia presenting as Cotard’s syndrome](https://doi.org/10.1186/s13064-026-00237-w). *Discover Neuroscience*; 21, 9 (2026)
+* **Ravindren, R.**#, Ratheesh, R.S. & Veedu, P.T. (2026). [Aphantasia presenting as Cotard’s syndrome](https://doi.org/10.1186/s13064-026-00237-w). *Discover Neuroscience*; 21, 9 (2026)
 * Sivaraman, D.M., **Shaju, A.**, Nair, G.S., and **Balan, S.** (2026). [Systems Biology of Mesial Temporal Lobe Epilepsy and Role of Iron-Related Gene Expression in Its Pathophysiology](https://doi.org/10.1177/15578100261419485). *OMICS: A Journal of Integrative Biology*; 10.1177/15578100261419485
 * Sasidharan, S.P., James, S., **Balan, S.** & Manakkadan, A., (2026). [An optimized protocol for isolating Rhinosporidium seeberi sporangia from rhinosporidiosis tissue and extracting genomic DNA for next-generation sequencing](https://doi.org/10.1007/s11033-025-11280-x). *Molecular Biology Reports*; 53, 117
   

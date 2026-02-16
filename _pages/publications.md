@@ -13,7 +13,7 @@ header:
 
 #### **2026**
 
-- **Ravindren R.**<sup>#</sup>, Ratheesh RS, Veedu PT. Aphantasia presenting as Cotard’s syndrome. ***Discover Neuroscience***. 2026;21:9. Available from: https://doi.org/10.1186/s13064-026-00237-w  
+- **Ravindren R.**<sup>#</sup>, Ratheesh RS, Veedu PT. Aphantasia presenting as Cotard’s syndrome. ***Discover Neuroscience***. 2026;21:9. Available from: (https://doi.org/10.1186/s13064-026-00237-w)  
 
 - Sivaraman DM, **Shaju A.**, Nair GS, **Balan S.** Systems Biology of Mesial Temporal Lobe Epilepsy and Role of Iron-Related Gene Expression in Its Pathophysiology. ***OMICS: A Journal of Integrative Biology***. 2026;10.1177/15578100261419485. Available from: https://doi.org/10.1177/15578100261419485  
 

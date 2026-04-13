@@ -28,11 +28,16 @@ header:
 
 Name | Role | Year | Current Position
 ------------ | ------------ | ------------ | ------------
-Mubashira V | Junior Research Fellow (DHR Project) | 2022 -2024 | UAE
-Niketha Manoj | Junior Research Fellow (SERB Project) | 2023 -2024 | Graduate Student (NIT-Calicut, Kerala) 
-Shibila A M | Technical Assistant (Electrophysiology) | 2019 -2025 | Electrophysiologist, Dubai
-Varun T K | Project Fellow (SERB-SURE) | 2024 -2025 | Data Scientist, Centre for Integrative Omics Data Science, Yenepoya University
-Shilpa O | Visiting researcher (post-doctoral fellow) | 2023 -2025 | Assistant Professor, Nitte University Centre for Science Education & Research
+Anusree A Kumar | Project Fellow (KSCSTE) | 2023 - 2026 | PhD Student (Department of Organ Anatomy, Tohoku University Graduate School of Medicine, Sendai, Japan) 
+Shilpa O | Visiting researcher (post-doctoral fellow) | 2023 - 2025 | Assistant Professor, Nitte University Centre for Science Education & Research
+Varun T K | Project Fellow (SERB-SURE) | 2024 - 2025 | Data Scientist, Centre for Integrative Omics Data Science, Yenepoya University
+Shibila A M | Technical Assistant (Electrophysiology) | 2019 - 2025 | Electrophysiologist, Dubai
+Niketha Manoj | Junior Research Fellow (SERB Project) | 2023 - 2024 | PhD Student (Department of Bioscience and Engineering, NIT-Calicut, Kerala) 
+Mubashira V | Junior Research Fellow (DHR Project) | 2022 - 2024 | UAE
+
+
+
+
 
 #### Interns
 <a href="/alum/"> Click here </a> <br/>

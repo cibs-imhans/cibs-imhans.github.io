@@ -13,6 +13,7 @@ header:
 
 | Name | Internship | Course | Institution | Year |
 |-----------------|-------------|-------------|---------------|---------------|
+| Marvin Rasha | Graduate Research Intern  | BTech Genetic Engineering | SRM University, Tamil Nadu | 2025 |
 | Ashiqa N | Graduate Research Intern  | MSc Biotechnology | Jamia Millia Islamia, New Delhi | 2025 |
 | Swathishma | Graduate Research Intern  | MTech Bioengineering | National Institute of Technology Calicut, Kerala | 2025 |
 | Sangeeth Kumar T V | Graduate Research Intern  | MSc Biotechnology | Kannur University, Kerala | 2025 |

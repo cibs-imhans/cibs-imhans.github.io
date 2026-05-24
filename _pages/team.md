@@ -502,7 +502,7 @@ header:
           <img src="{{ '/assets/headshots/MIdhun.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Midhun Sidharthan" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">MS</span>
         </div>
-        <h3 class="card-name">Midhun Sidharthan</h3>
+        <h3 class="card-name">Midhun S</h3>
         <div class="card-divider"></div>
         <p class="card-role">Visiting Researcher</p>
         <p class="card-years">Assistant Professor, Department of Psychiatry, Government Medical College Kozhikode</p>
@@ -556,7 +556,7 @@ header:
         </div>
         <h3 class="card-name alumni">Shilpa O</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Visiting Researcher (Post-Doctoral Researcher)</p>
+        <p class="card-role">Visiting Researcher (Post-Doctoral)</p>
         <p class="card-years">2023 – 2025</p>
         <p class="card-now">→ Assistant Professor, Nitte University</p>
       </div>

@@ -408,7 +408,7 @@ header:
         <span class="fallback-initials" aria-hidden="true">KP</span>
       </div>
       <div class="fd-info">
-        <h2 class="fd-name"> Prof (Dr) Krishnakumar Padinharath</h2>
+        <h2 class="fd-name"> Prof (Dr) Krishnakumar Padinharath</h3>
         <p class="fd-role">Founding Director, Centre for Interdisciplinary Brain Sciences<br>IMHANS, Kozhikode</p>
         <p class="fd-tenure">2022 – 2025</p>
       </div>

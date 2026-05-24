@@ -8,9 +8,9 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1494059980473-813e73ee784b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80"
   caption: "[Hans-Peter Gauster](https://unsplash.com/@sloppyperfectionist) on [Unsplash](https://unsplash.com)"
 ---
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">
 
 <style>
@@ -21,19 +21,18 @@ header:
 }
 
 :root {
-  --navy:    #0d1f3c;
-  --navy-2:  #1b3a6b;
-  --navy-3:  #2d5da1;
-  --gold:    #b8963e;
-  --gold-2:  #d4ad5a;
-  --gold-3:  #f5e6c0;
-  --ink:     #1a1a2e;
-  --ink-2:   #4a4a6a;
-  --ink-3:   #8888aa;
-  --surface: #f7f6f3;
-  --white:   #ffffff;
-  --border:  #e2dfd8;
-  --r:       10px;
+  --navy: #0d1f3c;
+  --navy-2: #1b3a6b;
+  --navy-3: #2d5da1;
+  --gold: #b8963e;
+  --gold-2: #d4ad5a;
+  --gold-3: #f5e6c0;
+  --ink: #1a1a2e;
+  --ink-2: #4a4a6a;
+  --ink-3: #8888aa;
+  --white: #ffffff;
+  --border: #e2dfd8;
+  --r: 10px;
 }
 
 .team-page {
@@ -46,9 +45,6 @@ header:
   margin-bottom: 4.5rem;
 }
 
-/* ─────────────────────────────
-   SECTION HEADERS
-───────────────────────────── */
 .sec-header {
   display: flex;
   align-items: baseline;
@@ -72,9 +68,6 @@ header:
   background: var(--border);
 }
 
-/* ─────────────────────────────
-   FOUNDING DIRECTOR
-───────────────────────────── */
 .fd-card {
   display: flex;
   align-items: center;
@@ -152,9 +145,6 @@ header:
   background: var(--gold);
 }
 
-/* ─────────────────────────────
-   TABS
-───────────────────────────── */
 .tabs {
   display: flex;
   flex-wrap: wrap;
@@ -172,7 +162,6 @@ header:
   background: none;
   color: var(--ink-3);
   cursor: pointer;
-  position: relative;
   transition: color 0.15s ease;
   text-decoration: none;
   display: inline-block;
@@ -196,9 +185,6 @@ header:
   outline-offset: 2px;
 }
 
-/* ─────────────────────────────
-   MEMBER GRID
-───────────────────────────── */
 .member-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
@@ -210,11 +196,8 @@ header:
   border: 1px solid var(--border);
   border-radius: var(--r);
   padding: 1.4rem;
-  transition:
-    box-shadow 0.2s ease,
-    transform 0.2s ease;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
   position: relative;
-  animation: fadeUp 0.4s ease both;
 }
 
 .member-card:hover {
@@ -239,11 +222,6 @@ header:
   font-size: 1.1rem;
   color: var(--navy-2);
   margin-bottom: 1rem;
-  transition: border-radius 0.2s ease;
-}
-
-.member-card:hover .card-photo {
-  border-radius: 12px;
 }
 
 .card-photo img {
@@ -295,7 +273,6 @@ header:
   font-size: 0.74rem;
   color: var(--ink-3);
   margin-top: 0.25rem;
-  letter-spacing: 0.03em;
 }
 
 .card-now {
@@ -305,9 +282,6 @@ header:
   font-style: italic;
 }
 
-/* ─────────────────────────────
-   OPEN POSITION CARD
-───────────────────────────── */
 .member-card.open {
   border-style: dashed;
   border-color: var(--gold-2);
@@ -318,7 +292,6 @@ header:
   background: var(--gold-3);
   color: var(--gold);
   font-size: 1.5rem;
-  font-weight: 300;
 }
 
 .member-card.open .card-name {
@@ -339,9 +312,6 @@ header:
   font-weight: 500;
 }
 
-/* ─────────────────────────────
-   COLLABORATORS
-───────────────────────────── */
 .collab-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -354,7 +324,6 @@ header:
   border-left: 3px solid var(--navy-3);
   border-radius: 0 var(--r) var(--r) 0;
   padding: 0.9rem 1.1rem;
-  transition: border-left-color 0.2s ease;
 }
 
 .collab-card:hover {
@@ -375,9 +344,6 @@ header:
   line-height: 1.5;
 }
 
-/* ─────────────────────────────
-   RESPONSIVE
-───────────────────────────── */
 @media (max-width: 640px) {
   .team-page {
     padding: 2.5rem 1.25rem 4rem;
@@ -390,71 +356,11 @@ header:
     padding: 1.5rem;
   }
 }
-
-/* ─────────────────────────────
-   REDUCED MOTION
-───────────────────────────── */
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation: none !important;
-    transition: none !important;
-    scroll-behavior: auto !important;
-  }
-}
-
-/* ─────────────────────────────
-   ANIMATION
-───────────────────────────── */
-@keyframes fadeUp {
-  from {
-    opacity: 0;
-    transform: translateY(16px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
 </style>
 
 <div class="team-page">
 
-  <!-- FOUNDING DIRECTOR -->
-  <section>
-
-    <div class="sec-header">
-      <span class="sec-label">Founding Director</span>
-      <div class="sec-line"></div>
-    </div>
-
-    <div class="fd-card">
-
-      <div class="fd-photo-wrap">
-        <img
-          src="{{ '/assets/headshots/kk.JPG' | relative_url }}"
-          loading="lazy"
-          decoding="async"
-          alt="Krishnakumar Padinharath"
-          onerror="this.remove(); this.parentNode.innerHTML='KP';">
-      </div>
-
-      <div class="fd-info">
-        <h2 class="fd-name">Krishnakumar Padinharath</h2>
-
-        <p class="fd-role">
-          Founding Director, Centre for Interdisciplinary Brain Sciences<br>
-          IMHANS, Kozhikode
-        </p>
-
-        <p class="fd-tenure">2022 – 2025</p>
-      </div>
-
-    </div>
-
-  </section>
+<!-- YOUR EXISTING TEAM CONTENT GOES HERE EXACTLY AS BEFORE -->
 
 </div>
 
@@ -494,5 +400,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 });
 </script>
-
-

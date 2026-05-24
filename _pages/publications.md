@@ -13,6 +13,8 @@ header:
 
 #### **2026**
 
+- **AA Kumar**, **A Shaju**, **V Mubashira**, **S Balan**, D Dhananjayan, **R Ravindren**<sup>#</sup>. Clinical Profile and Plasma Vitamin B6 Levels in Children with Tourette Syndrome: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;. [https://doi.org/10.1177/02537176261449872](https://doi.org/10.1177/02537176261449872)
+  
 - **Ravindren R.**<sup>#</sup>, Ratheesh RS, Veedu PT. Aphantasia presenting as Cotard’s syndrome. *Discover Neuroscience*. 2026;21:9. [https://doi.org/10.1186/s13064-026-00237-w](https://doi.org/10.1186/s13064-026-00237-w)  
 
 - Sivaraman DM, **Shaju A.**, Nair GS, **Balan S.** Systems Biology of Mesial Temporal Lobe Epilepsy and Role of Iron-Related Gene Expression in Its Pathophysiology. *OMICS: A Journal of Integrative Biology*. 2026;10.1177/15578100261419485. [https://doi.org/10.1177/15578100261419485](https://doi.org/10.1177/15578100261419485)  

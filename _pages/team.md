@@ -8,36 +8,17 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1494059980473-813e73ee784b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80"
   caption: "[Hans-Peter Gauster](https://unsplash.com/@sloppyperfectionist) on [Unsplash](https://unsplash.com)"
 ---
+<!-- Typography Architecture Asset Injection -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 
-{% raw %}
 <style>
-/* ── MINIMAL MISTAKES RESET OVERRIDES ── */
-.page__content {
-  max-width: 100% !important;
-}
-
 /* ── SCALED NAMESPACED LAYOUT SYSTEM ── */
 .team-page {
   max-width: 1100px;
   margin: 0 auto;
   padding: 3.5rem 2rem 6rem;
-}
-
-.team-page img {
-  max-width: none;
-}
-
-.team-page p,
-.team-page h1,
-.team-page h2,
-.team-page h3,
-.team-page h4,
-.team-page h5,
-.team-page h6 {
-  margin-top: 0;
 }
 
 .team-page *, 
@@ -118,21 +99,16 @@ header:
   display: flex; 
   align-items: center; 
   justify-content: center;
-  cursor: pointer;
 }
 
-/* Base state for headshot images with silky smooth transitions */
 .team-page .fd-photo-wrap img {
   width: 100%; 
   height: 100%;
   object-fit: cover;
-  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-  will-change: transform;
+  transition: transform 0.35s ease;
 }
-
-/* Targeted Zoom: Activates when hovering directly over the photo frame */
-.team-page .fd-photo-wrap:hover img { 
-  transform: scale(1.25); 
+.team-page .fd-card:hover .fd-photo-wrap img { 
+  transform: scale(1.07); 
 }
 
 .team-page .fd-name {
@@ -239,27 +215,19 @@ header:
   justify-content: center;
   margin-bottom: 1rem;
   transition: border-radius 0.2s;
-  cursor: pointer;
 }
-
-/* Dynamic container shape update on card hover */
 .team-page .member-card:hover .card-photo { 
   border-radius: 12px; 
 }
 
-/* Image zoom configuration for grid members */
 .team-page .card-photo img {
   width: 100%; 
   height: 100%;
   object-fit: cover;
-  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-  will-change: transform;
+  transition: transform 0.35s ease;
 }
-
-/* Zoom triggers perfectly whether hovering over the entire card or just the image container */
-.team-page .member-card:hover .card-photo img,
-.team-page .card-photo:hover img { 
-  transform: scale(1.3); 
+.team-page .member-card:hover .card-photo img { 
+  transform: scale(1.08); 
 }
 
 /* Isolated Non-Destructive Initial Elements */
@@ -269,10 +237,6 @@ header:
   font-size: 1.15rem;
   color: var(--navy-2);
   font-weight: 500;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
 }
 .team-page .fd-photo-wrap .fallback-initials {
   font-size: 1.5rem;
@@ -427,6 +391,7 @@ header:
 
 <div class="team-page">
 
+  <!-- FOUNDING DIRECTOR -->
   <section aria-labelledby="dir-heading">
     <div class="sec-header">
       <span class="sec-label" id="dir-heading">Founding Director</span>
@@ -450,6 +415,7 @@ header:
     </div>
   </section>
 
+  <!-- TEAM MEMBERS -->
   <section aria-labelledby="team-heading">
     <div class="sec-header">
       <span class="sec-label" id="team-heading">Research Team</span>
@@ -464,6 +430,7 @@ header:
 
     <div class="member-grid" id="team-grid">
 
+      <!-- Current Members -->
       <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/shabeesh.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Shabeesh Balan" class="team-headshot">
@@ -552,6 +519,7 @@ header:
         <p class="card-years">Assistant Professor, Department of Psychiatry, Government Medical College Kozhikode</p>
       </div>
 
+      <!-- Open Hiring States -->
       <div class="member-card open" data-type="current">
         <div class="open-badge">Hiring</div>
         <div class="card-photo"><span class="card-photo-plus">+</span></div>
@@ -568,6 +536,7 @@ header:
         <p class="card-role">Project Fellow (SERB-SURE Project)</p>
       </div>
 
+      <!-- Alumni Section Elements -->
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/anu.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Anusree A Kumar" class="team-headshot">
@@ -643,6 +612,7 @@ header:
     </div>
   </section>
 
+  <!-- COLLABORATORS -->
   <section aria-labelledby="collab-heading">
     <div class="sec-header">
       <span class="sec-label" id="collab-heading">Collaborators</span>
@@ -750,4 +720,3 @@ header:
     });
   });
 </script>
-{% endraw %}

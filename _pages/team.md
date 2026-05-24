@@ -439,8 +439,7 @@ header:
         <h3 class="card-name"><a href="https://linktr.ee/shabeeshbalan" target="_blank" rel="noopener noreferrer">Shabeesh Balan</a></h3>
         <div class="card-divider"></div>
         <p class="card-role">Principal Investigator</p>
-        <p class="card-years">Scientist D (DHR-NRI Faculty Fellow)</p>
-        <p class="card-years">CIBS-IMHANS</p>
+        <p class="card-years">Scientist D (DHR-NRI Faculty Fellow), CIBS-IMHANS</p>
       </div>
 
       <div class="member-card" data-type="current">

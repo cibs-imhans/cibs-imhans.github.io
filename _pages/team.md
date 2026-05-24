@@ -400,7 +400,7 @@ header:
 
     <div class="fd-card">
       <div class="fd-photo-wrap">
-        <img src="{{ '/assets/headshots/kk.jpg' | relative_url }}" 
+        <img src="{{ '/assets/headshots/kk.JPG' | relative_url }}" 
              loading="lazy" 
              decoding="async" 
              alt="Krishnakumar Padinharath" 
@@ -433,7 +433,7 @@ header:
       <!-- Current Members -->
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/shabeesh.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Shabeesh Balan" class="team-headshot">
+          <img src="{{ '/assets/headshots/shabeesh.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Shabeesh Balan" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">SB</span>
         </div>
         <h3 class="card-name"><a href="https://linktr.ee/shabeeshbalan" target="_blank" rel="noopener noreferrer">Shabeesh Balan</a></h3>
@@ -478,7 +478,7 @@ header:
 
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/ranjitha.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Ranjitha M" class="team-headshot">
+          <img src="{{ '/assets/headshots/ranjitha.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Ranjitha M" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">RM</span>
         </div>
         <h3 class="card-name">Ranjitha M</h3>
@@ -500,7 +500,7 @@ header:
 
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/midhun.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Midhun Sidharthan" class="team-headshot">
+          <img src="{{ '/assets/headshots/MIdhun.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Midhun Sidharthan" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">MS</span>
         </div>
         <h3 class="card-name">Midhun Sidharthan</h3>
@@ -564,7 +564,7 @@ header:
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/varun_tk.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Varun T K" class="team-headshot">
+          <img src="{{ '/assets/headshots/varun.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Varun T K" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">VT</span>
         </div>
         <h3 class="card-name alumni">Varun T K</h3>
@@ -576,7 +576,7 @@ header:
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/shibila.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Shibila A M" class="team-headshot">
+          <img src="{{ '/assets/headshots/shibila.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Shibila A M" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">SA</span>
         </div>
         <h3 class="card-name alumni">Shibila A M</h3>

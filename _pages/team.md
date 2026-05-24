@@ -583,29 +583,6 @@ section { margin-bottom: 4.5rem; }
   }
 </script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--- {% include lab_member_gallery.html%} -->
 <!--- {% include lab_alum_gallery.html%} -->
 

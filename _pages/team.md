@@ -609,32 +609,3 @@ section { margin-bottom: 4.5rem; }
 <!--- {% include lab_member_gallery.html%} -->
 <!--- {% include lab_alum_gallery.html%} -->
 
-<!--- ## Collaborators
-* Dr Dileep Vijayan, Laboratory for Computational and Structural Biology, Jubilee Mission Medical College Hospital and Research Institute, Kerala
-* Dr Neetha Balaram, Department of Neurology, Government Medical College Calicut, Kerala
-* Dr Divya MS, Department of Pathology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala
-* Dr Sreejith PS, Multidisciplinary Research Unit (MRU), Government Medical College, Thiruvananthapuram, Kerala
-* Dr Lijiya A, Department of Computer Science and Engineering, National Institute of Technology Calicut, Kerala
-* Dr Arun Kumar Gangadharan, Department of Molecular Biology, Kannur University, Kerala
-* Dr Sanish Sathyan, Department of Molecular Biology, Kannur University, Kerala
-* Dr Joe Cherri Ross, Department of Computer Science and Engineering, National Institute of Technology Calicut, Kerala
-* Dr Varsha Vidyadharan, Department of Psychiatry, Government Medical College Calicut, Kerala
-  
-## Alumni
-#### Research Fellows/Clinical Fellows
-
-| Name              | Role                                      | Year         | Current Position                                                                                          |
-|-------------------|-------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
-| Anusree A Kumar   | Project Fellow (KSCSTE)                   | 2023–2026    | PhD Student, Department of Organ Anatomy, Tohoku University Graduate School of Medicine, Sendai, Japan   |
-| Shilpa O          | Visiting Researcher (Post-Doctoral Fellow)| 2023–2025    | Assistant Professor, Nitte University Centre for Science Education & Research                            |
-| Varun T K         | Project Fellow (SERB-SURE)                | 2024–2025    | Data Scientist, Centre for Integrative Omics Data Science, Yenepoya University                           |
-| Shibila A M       | Technical Assistant (Electrophysiology)   | 2019–2025    | Electrophysiologist, Dubai                                                                               |
-| Niketha Manoj     | Junior Research Fellow (SERB Project)     | 2023–2024    | PhD Student, Department of Bioscience and Engineering, NIT Calicut, Kerala                               |
-| Mubashira V       | Junior Research Fellow (DHR Project)      | 2022–2024    | UAE                                                                                                      |
-
-
-
-
-
-#### Interns
-<a href="/alum/"> Click here </a> <br/>  -->

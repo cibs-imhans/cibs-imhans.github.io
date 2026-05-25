@@ -410,7 +410,7 @@ header:
       <div class="fd-info">
         <h2 class="fd-name"> 
           <a href="https://your-link-here.com" target="_blank" rel="noopener">
-          Prof (Dr) Krishnakumar Padinharath
+          Prof (Dr) P. Krishnakumar
           </a>
         </h2>
         <p class="fd-role">Founding Director,<br>Centre for Interdisciplinary Brain Sciences (CIBS)-IMHANS, Kerala</p>

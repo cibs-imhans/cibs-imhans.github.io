@@ -546,7 +546,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Project Fellow (KSCSTE)</p>
         <p class="card-years">2023 – 2026</p>
-        <p class="card-now">→ PhD, Tohoku University, Japan</p>
+        <p class="card-now">PhD student, Tohoku University, Japan</p>
       </div>
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
@@ -558,7 +558,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Visiting Researcher (Post-Doctoral)</p>
         <p class="card-years">2023 – 2025</p>
-        <p class="card-now">→ Assistant Professor, Nitte University</p>
+        <p class="card-now">Assistant Professor, Nitte University, Mangalore</p>
       </div>
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
@@ -568,9 +568,9 @@ header:
         </div>
         <h3 class="card-name alumni">Varun T K</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Project Fellow (SERB-SURE)</p>
+        <p class="card-role">Project Fellow<br>(SERB-SURE)</p>
         <p class="card-years">2024 – 2025</p>
-        <p class="card-now">→ Data Scientist, Yenepoya University</p>
+        <p class="card-now">Data Scientist, Yenepoya University, Mangalore</p>
       </div>
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
@@ -582,7 +582,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Technical Assistant (Electrophysiology)</p>
         <p class="card-years">2019 – 2025</p>
-        <p class="card-now">→ Electrophysiologist, Dubai</p>
+        <p class="card-now">Electrophysiologist, Dubai, UAE</p>
       </div>
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
@@ -594,7 +594,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF)</p>
         <p class="card-years">2023 – 2024</p>
-        <p class="card-now">→ PhD, NIT Calicut</p>
+        <p class="card-now">PhD Student, NIT Calicut, Kerala</p>
       </div>
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
@@ -606,7 +606,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (DHR)</p>
         <p class="card-years">2022 – 2024</p>
-        <p class="card-now">→ UAE</p>
+        <p class="card-now">Dubai, UAE</p>
       </div>
 
     </div>

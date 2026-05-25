@@ -409,7 +409,7 @@ header:
       </div>
       <div class="fd-info">
         <h2 class="fd-name"> 
-          <a href="https://your-link-here.com" target="_blank" rel="noopener">
+          <a href="https://doi.org/10.1177/09731342251333861" target="_blank" rel="noopener">
           Prof (Dr) P. Krishnakumar
           </a>
         </h2>

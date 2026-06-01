@@ -13,7 +13,7 @@ header:
 
 | Name | Internship | Course | Institution | Year |
 |-----------------|-------------|-------------|---------------|---------------|
-| Anet Maria Joseph | Undergraduate Research Intern | BSc Zoology |St. Joseph's College (Autonomous), Devagiri, Calicut University, Kerala | 2026 |
+| Anet Maria Joseph | Undergraduate Research Intern | BSc Zoology |St. Joseph's College Devagiri, Calicut University, Kerala | 2026 |
 | Prasun CV | Graduate Research Intern | MSc Molecular Biology | Kannur University, Kerala | 2026 |
 | Jibin SN | Graduate Research Intern  | MSc Data Science and Analytics | MG University, Kerala | 2026 |
 | Alwin Titus | Undergraduate Research Intern | BTech Computer Science and Engineering | Vellore Institute of Technology, Bhopal | 2026 |

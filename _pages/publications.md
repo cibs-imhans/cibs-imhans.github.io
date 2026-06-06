@@ -16,7 +16,7 @@ header:
 
 - **Ravindren R.**<sup>#</sup>, S Mathew. Shared Possession Trance Disorder Among Four Children in a Household. *The Primary Care Companion for CNS Disorders*, 2026;28(3):25cr04164. [https://doi.org/10.4088/PCC.25cr04164](https://doi.org/10.4088/PCC.25cr04164)
 
-- **AA Kumar**, **A Shaju**, **V Mubashira**, **S Balan**, D Dhananjayan, **R Ravindren**<sup>#</sup>. Clinical Profile and Plasma Vitamin B6 Levels in Children with Tourette Syndrome: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;. [https://doi.org/10.1177/02537176261449872](https://doi.org/10.1177/02537176261449872)
+- **Kumar AA**, **Shaju A**, **Mubashira V**, **Balan S**, Dhananjayan D, **Ravindren R**<sup>#</sup>. Clinical Profile and Plasma Vitamin B6 Levels in Children with Tourette Syndrome: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;. [https://doi.org/10.1177/02537176261449872](https://doi.org/10.1177/02537176261449872)
   
 - **Ravindren R.**<sup>#</sup>, Ratheesh RS, Veedu PT. Aphantasia presenting as Cotard’s syndrome. *Discover Neuroscience*. 2026;21:9. [https://doi.org/10.1186/s13064-026-00237-w](https://doi.org/10.1186/s13064-026-00237-w)  
 

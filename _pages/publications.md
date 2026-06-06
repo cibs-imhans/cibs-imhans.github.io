@@ -12,6 +12,8 @@ header:
 ## Selected Publications
 
 #### **2026**
+- Balaram N.<sup>#</sup>, **Ravindren R.** <sup>#</sup>, Ratheesh SR <sup>#</sup>. EEG Stabilization and Cognitive Gains After Pulse Steroid Therapy in Developmental and/or Epileptic Encephalopathy With Spike-Wave Activation in Sleep: A Prospective Cohort Study. *Epilepsy & Behavior*, 2026;183:111144. [https://doi.org/10.1016/j.yebeh.2026.111144](https://doi.org/10.1016/j.yebeh.2026.111144)
+
 - **Ravindren R.**<sup>#</sup>, S Mathew. Shared Possession Trance Disorder Among Four Children in a Household. *The Primary Care Companion for CNS Disorders*, 2026;28(3):25cr04164. [https://doi.org/10.4088/PCC.25cr04164](https://doi.org/10.4088/PCC.25cr04164)
 
 - **AA Kumar**, **A Shaju**, **V Mubashira**, **S Balan**, D Dhananjayan, **R Ravindren**<sup>#</sup>. Clinical Profile and Plasma Vitamin B6 Levels in Children with Tourette Syndrome: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;. [https://doi.org/10.1177/02537176261449872](https://doi.org/10.1177/02537176261449872)

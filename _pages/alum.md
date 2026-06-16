@@ -14,13 +14,13 @@ header:
 | Name | Internship | Course | Institution | Year |
 |-----------------|-------------|-------------|---------------|---------------|
 | Anet Maria Joseph | Undergraduate Research Intern | BSc Zoology |St. Joseph's College Devagiri, Calicut University, Kerala | 2026 |
-| Prasun CV | Graduate Research Intern | MSc Molecular Biology | Kannur University, Kerala | 2026 |
-| Jibin SN | Graduate Research Intern  | MSc Data Science and Analytics | MG University, Kerala | 2026 |
-| Alwin Titus | Undergraduate Research Intern | BTech Computer Science and Engineering | Vellore Institute of Technology, Bhopal | 2026 |
+| Prasun CV | Graduate Dissertation student | MSc Molecular Biology | Kannur University, Kerala | 2026 |
+| Jibin SN | Graduate Dissertation student  | MSc Data Science and Analytics | MG University, Kerala | 2026 |
+| Alwin Titus | Graduate Dissertation student | BTech Computer Science and Engineering | Vellore Institute of Technology, Bhopal | 2026 |
 | Marvin Rasha | Undergraduate Research Intern  | BTech Genetic Engineering | SRM University, Tamil Nadu | 2025 |
 | Ashiqa N | Graduate Research Intern  | MSc Biotechnology | Jamia Millia Islamia, New Delhi | 2025 |
 | Swathishma | Graduate Research Intern  | MTech Bioengineering | National Institute of Technology Calicut, Kerala | 2025 |
-| Sangeeth Kumar T V | Graduate Research Intern  | MSc Biotechnology | Kannur University, Kerala | 2025 |
+| Sangeeth Kumar T V | Graduate Dissertation student  | MSc Biotechnology | Kannur University, Kerala | 2025 |
 | Panchami V | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |
 | Dhinila Dheeraj | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |
 | Vufila Umar TP | Graduate Research Intern  | MSc Zoology | Central University of Kerala, Kerala | 2025 |

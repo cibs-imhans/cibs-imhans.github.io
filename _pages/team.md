@@ -471,7 +471,7 @@ header:
       <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
-          <span class="fallback-initials" aria-hidden="true">JJ</span>
+          <span class="fallback-initials" aria-hidden="true">##</span>
         </div>
         <h3 class="card-name"></h3>
         <div class="card-divider"></div>
@@ -549,7 +549,7 @@ header:
         <h3 class="card-name alumni">Jasmine John</h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF)</p>
-        <p class="card-years">2023 – 2026</p>
+        <p class="card-years">2024 – 2026</p>
         <p class="card-now">PhD student, National Brain Research Centre (NBRC), Manesar</p>
       </div>
       
@@ -574,7 +574,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Visiting Researcher (Post-Doctoral)</p>
         <p class="card-years">2023 – 2025</p>
-        <p class="card-now">Assistant Professor, Nitte University, Mangalore</p>
+        <p class="card-now">Assistant Professor, NITTE University, Mangalore</p>
       </div>
 
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">

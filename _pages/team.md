@@ -470,10 +470,10 @@ header:
 
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/jasmine.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
+          <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JJ</span>
         </div>
-        <h3 class="card-name">Jasmine John</h3>
+        <h3 class="card-name"></h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF)</p>
         <p class="card-years">Molecular Psychiatry</p>
@@ -541,6 +541,18 @@ header:
       </div>
 
       <!-- Alumni Section Elements -->
+      <div class="member-card hidden" data-type="alumni" aria-hidden="true">
+        <div class="card-photo">
+          <img src="{{ '/assets/headshots/jasmine.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">JJ</span>
+        </div>
+        <h3 class="card-name alumni">Jasmine John</h3>
+        <div class="card-divider"></div>
+        <p class="card-role">Junior Research Fellow (ANRF)</p>
+        <p class="card-years">2023 – 2026</p>
+        <p class="card-now">PhD student, National Brain Research Centre (NBRC), Manesar</p>
+      </div>
+      
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/anu.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Anusree A Kumar" class="team-headshot">

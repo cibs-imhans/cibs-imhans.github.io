@@ -470,10 +470,10 @@ header:
 
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
-          <span class="fallback-initials" aria-hidden="true">##</span>
+          <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">JP</span>
         </div>
-        <h3 class="card-name"></h3>
+        <h3 class="card-name">Jasna P</h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF)</p>
         <p class="card-years">Molecular Psychiatry</p>

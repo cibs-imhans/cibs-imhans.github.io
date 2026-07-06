@@ -13,6 +13,7 @@ header:
 
 | Name | Internship | Course | Institution | Year |
 |-----------------|-------------|-------------|---------------|---------------|
+| Murshid Ibrahim KK | Graduate Research Intern  | Integrated MSc Biological Sciences | CUSAT Kochi, Kerala | 2026 |
 | Anet Maria Joseph | Undergraduate Research Intern | BSc Zoology |St. Joseph's College Devagiri, Calicut University, Kerala | 2026 |
 | Prasun CV | Graduate Dissertation student | MSc Molecular Biology | Kannur University, Kerala | 2026 |
 | Jibin SN | Graduate Dissertation student  | MSc Data Science and Analytics | MG University, Kerala | 2026 |

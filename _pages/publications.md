@@ -12,6 +12,8 @@ header:
 ## Selected Publications
 
 #### **2026**
+- **Ravindren R.**<sup>#</sup>, Meenamkada S, Mannil SA. Methylphenidate Improves Pediatric Obstructive Sleep Apnea. *Indian J Sleep Med* 2026; 21 (2):71-71.[https://doi.org/10.5005/jp-journals-10069-0184 ](https://doi.org/10.5005/jp-journals-10069-0184 ) 
+
 - Balaram N.<sup>#</sup>, **Ravindren R.** <sup>#</sup>, Ratheesh SR <sup>#</sup>. EEG Stabilization and Cognitive Gains After Pulse Steroid Therapy in Developmental and/or Epileptic Encephalopathy With Spike-Wave Activation in Sleep: A Prospective Cohort Study. *Epilepsy & Behavior*, 2026;183:111144. [https://doi.org/10.1016/j.yebeh.2026.111144](https://doi.org/10.1016/j.yebeh.2026.111144)
 
 - **Ravindren R.**<sup>#</sup>, Mathew S. Shared Possession Trance Disorder Among Four Children in a Household. *The Primary Care Companion for CNS Disorders*, 2026;28(3):25cr04164. [https://doi.org/10.4088/PCC.25cr04164](https://doi.org/10.4088/PCC.25cr04164)

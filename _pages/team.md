@@ -90,9 +90,9 @@ header:
 }
 
 .team-page .fd-photo-wrap {
-  width: 90px; 
-  height: 90px;
-  border-radius: 8px;
+  width: 130px; 
+  height: 130px;
+  border-radius: 10px;
   overflow: hidden;
   flex-shrink: 0;
   background: var(--gold-3);
@@ -205,9 +205,9 @@ header:
 }
 
 .team-page .card-photo {
-  width: 58px; 
-  height: 58px;
-  border-radius: 7px;
+  width: 84px; 
+  height: 84px;
+  border-radius: 9px;
   overflow: hidden;
   background: var(--gold-3);
   display: flex; 
@@ -234,12 +234,12 @@ header:
 .team-page .fallback-initials {
   display: none;
   font-family: 'EB Garamond', serif;
-  font-size: 1.15rem;
+  font-size: 1.6rem;
   color: var(--navy-2);
   font-weight: 500;
 }
 .team-page .fd-photo-wrap .fallback-initials {
-  font-size: 1.5rem;
+  font-size: 2.1rem;
 }
 
 .team-page .card-name {

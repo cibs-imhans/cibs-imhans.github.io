@@ -105,11 +105,7 @@ header:
   width: 100%; 
   height: 100%;
   object-fit: cover;
-  transition: transform 0.35s ease;
-}
-.team-page .fd-card:hover .fd-photo-wrap img { 
-  transform: scale(1.07); 
-}
+  }
 
 .team-page .fd-name {
   font-family: 'EB Garamond', serif;
@@ -224,11 +220,7 @@ header:
   width: 100%; 
   height: 100%;
   object-fit: cover;
-  transition: transform 0.35s ease;
-}
-.team-page .member-card:hover .card-photo img { 
-  transform: scale(1.08); 
-}
+ }
 
 /* Isolated Non-Destructive Initial Elements */
 .team-page .fallback-initials {

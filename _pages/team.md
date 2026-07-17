@@ -459,9 +459,20 @@ header:
           <img src="{{ '/assets/headshots/aisha.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">AS</span>
         </div>
-        <h3 class="card-name">Aisha Shaju</h3>
+        <h3 class="card-name"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF)</p>
+        <p class="card-years">Molecular Psychiatry</p>
+      </div>
+
+     <div class="member-card" data-type="current">
+        <div class="card-photo">
+          <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="R" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">R</span>
+        </div>
+        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a></h3>
+        <div class="card-divider"></div>
+        <p class="card-role">Project Fellow (DHR)</p>
         <p class="card-years">Molecular Psychiatry</p>
       </div>
 
@@ -470,7 +481,7 @@ header:
           <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JP</span>
         </div>
-        <h3 class="card-name">Jasna P</h3>
+        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Jasna P</h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF)</p>
         <p class="card-years">Molecular Psychiatry</p>
@@ -481,7 +492,7 @@ header:
           <img src="{{ '/assets/headshots/ranjitha.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Ranjitha M" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">RM</span>
         </div>
-        <h3 class="card-name">Ranjitha M</h3>
+        <h3 class="card-name"><a href="https://orcid.org/0000-0001-6218-1546" target="_blank" rel="noopener noreferrer"></a>Ranjitha M</h3>
         <div class="card-divider"></div>
         <p class="card-role">Research Technician</p>
         <p class="card-years">Cytogenetics</p>
@@ -526,7 +537,7 @@ header:
         <div class="card-photo"><span class="card-photo-plus">+</span></div>
         <h3 class="card-name">Open Position</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Research Fellow (DHR Project)</p>
+        <p class="card-role">Research Fellow (DBT Project)</p>
       </div>
 
       <div class="member-card open" data-type="current">

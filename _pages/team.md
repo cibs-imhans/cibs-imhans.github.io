@@ -492,7 +492,7 @@ header:
           <img src="{{ '/assets/headshots/ranjitha.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Ranjitha M" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">RM</span>
         </div>
-        <h3 class="card-name"><a href="https://orcid.org/0000-0001-6218-1546" target="_blank" rel="noopener noreferrer"></a>Ranjitha M</h3>
+        <h3 class="card-name"><a href="https://orcid.org/0000-0001-6218-1546" target="_blank" rel="noopener noreferrer">Ranjitha M</a></h3>
         <div class="card-divider"></div>
         <p class="card-role">Research Technician</p>
         <p class="card-years">Cytogenetics</p>

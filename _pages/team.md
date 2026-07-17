@@ -202,7 +202,7 @@ header:
 }
 
 .team-page .card-photo {
-  width: 70%; 
+  width: 55%; 
   aspect-ratio: 3 / 4; 
   margin-left: auto;
   margin-right: auto;

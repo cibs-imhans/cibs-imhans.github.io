@@ -90,8 +90,8 @@ header:
 }
 
 .team-page .fd-photo-wrap {
-  width: 130px; 
-  height: 130px;
+  width: 190px; 
+  height: 190px;
   border-radius: 10px;
   overflow: hidden;
   flex-shrink: 0;
@@ -184,8 +184,8 @@ header:
 /* ── CORE MEMBERS RESPONSIVE GRID ── */
 .team-page .member-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
 }
 
 .team-page .member-card {
@@ -205,8 +205,8 @@ header:
 }
 
 .team-page .card-photo {
-  width: 84px; 
-  height: 84px;
+  width: 100%; 
+  height: 190px;
   border-radius: 9px;
   overflow: hidden;
   background: var(--gold-3);
@@ -234,12 +234,12 @@ header:
 .team-page .fallback-initials {
   display: none;
   font-family: 'EB Garamond', serif;
-  font-size: 1.6rem;
+  font-size: 2.6rem;
   color: var(--navy-2);
   font-weight: 500;
 }
 .team-page .fd-photo-wrap .fallback-initials {
-  font-size: 2.1rem;
+  font-size: 3rem;
 }
 
 .team-page .card-name {
@@ -299,7 +299,7 @@ header:
   color: var(--gold);
 }
 .team-page .member-card.open .card-photo-plus {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-weight: 300;
   font-family: 'DM Sans', sans-serif;
 }
@@ -365,6 +365,7 @@ header:
 @media (max-width: 640px) {
   .team-page { padding: 2.5rem 1.25rem 4rem; }
   .team-page .fd-card { flex-direction: column; align-items: flex-start; gap: 1.25rem; padding: 1.5rem; }
+  .team-page .fd-photo-wrap { width: 150px; height: 150px; } 
 }
 
 /* ── HW ACCELERATED STABLE TRANSITIONS ── */

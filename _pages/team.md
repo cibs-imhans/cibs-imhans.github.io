@@ -461,8 +461,8 @@ header:
         </div>
         <h3 class="card-name"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3>
         <div class="card-divider"></div>
-        <p class="card-role">Junior Research Fellow (ANRF)</p>
-        <p class="card-years">Molecular Psychiatry</p>
+        <p class="card-role">Junior Research Fellow</p>
+        <p class="card-years">Epigenetics of OCD drug response (ANRF)</p>
       </div>
 
      <div class="member-card" data-type="current">
@@ -472,8 +472,8 @@ header:
         </div>
         <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a></h3>
         <div class="card-divider"></div>
-        <p class="card-role">Project Fellow (DHR)</p>
-        <p class="card-years">Molecular Psychiatry</p>
+        <p class="card-role">Post Doctoral Fellow </p>
+        <p class="card-years">Modelling Carbonyl Stress (DHR)</p>
       </div>
 
       <div class="member-card" data-type="current">
@@ -483,8 +483,8 @@ header:
         </div>
         <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Jasna P</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Junior Research Fellow (ANRF)</p>
-        <p class="card-years">Molecular Psychiatry</p>
+        <p class="card-role">Junior Research Fellow</p>
+        <p class="card-years">ADHD and Sleep Genetics (ANRF)</p>
       </div>
 
       <div class="member-card" data-type="current">
@@ -580,7 +580,7 @@ header:
         </div>
         <h3 class="card-name alumni">Shilpa O</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Visiting Researcher (Post-Doctoral)</p>
+        <p class="card-role">Visiting Researcher <br>(Post-Doctoral Researcher)</p>
         <p class="card-years">2023 – 2025</p>
         <p class="card-now">Assistant Professor, NITTE University, Mangalore</p>
       </div>

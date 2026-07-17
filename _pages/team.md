@@ -202,8 +202,10 @@ header:
 }
 
 .team-page .card-photo {
-  width: 100%; 
-  height: 190px;
+  width: 70%; 
+  aspect-ratio: 3 / 4; 
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 9px;
   overflow: hidden;
   background: var(--gold-3);

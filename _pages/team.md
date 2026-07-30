@@ -456,7 +456,7 @@ header:
 
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '/assets/headshots/aisha.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
+          <img src="{{ '/assets/headshots/aisha_new.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">AS</span>
         </div>
         <h3 class="card-name"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3>
@@ -478,7 +478,7 @@ header:
 
       <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
+          <img src="{{ '/assets/headshots/jasna.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JP</span>
         </div>
         <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Jasna P</h3>

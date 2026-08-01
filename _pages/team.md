@@ -467,10 +467,10 @@ header:
 
      <div class="member-card" data-type="current">
         <div class="card-photo">
-          <img src="{{ '' | relative_url }}" loading="lazy" decoding="async" alt="R" class="team-headshot">
+          <img src="{{ '/assets/headshots/rohith.jpg' | relative_url }}" loading="lazy" decoding="async" alt="RK" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">R</span>
         </div>
-        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a></h3>
+        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Rohith Kumar</h3>
         <div class="card-divider"></div>
         <p class="card-role">Post Doctoral Fellow </p>
         <p class="card-years">Modelling Carbonyl Stress (DHR)</p>

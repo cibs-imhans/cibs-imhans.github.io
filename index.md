@@ -38,5 +38,5 @@ research_areas:
 {% include tweets.html %}
 
 ## News
-<marquee direction = "left"><a href="/workshop/"> Sequence to Synapse: A two-day hands-on training program introducing undergraduate students to molecular biology and electrophysiological techniques </a> </marquee>
+<marquee direction = "left"><a href="/publications/"> New publication; accepted in Progress in Neuropsychopharmacology & Biological Psychiatry !! </a> </marquee>
 

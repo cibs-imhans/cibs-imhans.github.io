@@ -677,10 +677,6 @@ header:
         <p class="collab-inst">Department of Neurogenetics, Institute for Communicative and Cognitive NeuroSciences, Shornur, Kerala</p>
       </div>
       <div class="collab-card">
-        <h3 class="collab-name">Dr Dhanasooraj Dhanjayan</h3>
-        <p class="collab-inst">Multidisciplinary Research Unit, Government Medical College, Kozhikode, Kerala</p>
-      </div>
-      <div class="collab-card">
         <h3 class="collab-name">Dr Arun Kumar Gangadharan</h3>
         <p class="collab-inst">Department of Molecular Biology, Kannur University, Kerala</p>
       </div>

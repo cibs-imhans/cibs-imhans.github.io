@@ -12,7 +12,7 @@ header:
 ## Selected Publications
 
 #### **2026**
-- Soman A, Dev SS, **Ravindren R**<sup>#</sup>. Phonemic Awareness Deficits in Specific Learning Disorder with Impairment in Reading in Malayalam: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;0(0). https://doi.org/10.1177/02537176261480347
+- Soman A, Dev SS, **Ravindren R**<sup>#</sup>. Phonemic Awareness Deficits in Specific Learning Disorder with Impairment in Reading in Malayalam: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;0(0). [https://doi.org/10.1177/02537176261480347](https://doi.org/10.1177/02537176261480347)
 
 - **Ashok Kumar A**, **Shaju A**, Sidharthan M, **John J**, **Mundedath R**, Haridas NJ, Kakkolil AP, Anitha A, **Ravindren RK** <sup>#</sup>, **Balan S** <sup>#</sup>. Poor Sleep Quality is Associated with Symptom Severity in Schizophrenia, Independent of Chronotype and BDNF Val66Met Genetic Variant. *Progress in Neuropsychopharmacology & Biological Psychiatry*, 2026;149,111907 [https://doi.org/10.1016/j.pnpbp.2026.111907](https://doi.org/10.1016/j.pnpbp.2026.111907)
 

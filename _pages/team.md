@@ -476,6 +476,17 @@ header:
         <p class="card-years">Modelling Carbonyl Stress (DHR)</p>
       </div>
 
+    <div class="member-card" data-type="current">
+        <div class="card-photo">
+          <img src="{{ '/assets/headshots/' | relative_url }}" loading="lazy" decoding="async" alt="PTM" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">R</span>
+        </div>
+        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a></h3>
+        <div class="card-divider"></div>
+        <p class="card-role">Project Associate</p>
+        <p class="card-years">Genetics of Childhood onset psychosis (DBT)</p>
+      </div>
+
       <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/jasna.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
@@ -529,23 +540,6 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Visiting Researcher</p>
         <p class="card-years">Assistant Professor, Department of Psychiatry, Government Medical College Kozhikode</p>
-      </div>
-
-      <!-- Open Hiring States -->
-      <div class="member-card open" data-type="current">
-        <div class="open-badge">Hiring</div>
-        <div class="card-photo"><span class="card-photo-plus">+</span></div>
-        <h3 class="card-name">Open Position</h3>
-        <div class="card-divider"></div>
-        <p class="card-role">Research Fellow (DBT Project)</p>
-      </div>
-
-      <div class="member-card open" data-type="current">
-        <div class="open-badge">Hiring</div>
-        <div class="card-photo"><span class="card-photo-plus">+</span></div>
-        <h3 class="card-name">Open Position</h3>
-        <div class="card-divider"></div>
-        <p class="card-role">Project Fellow (SERB-SURE Project)</p>
       </div>
 
       <!-- Alumni Section Elements -->

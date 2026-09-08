@@ -659,6 +659,14 @@ header:
         <p class="collab-inst">Department of Computer Science and Engineering, NIT Calicut, Kerala</p>
       </div>
       <div class="collab-card">
+        <h3 class="collab-name">Dr Nishanth J H</h3>
+        <p class="collab-inst">Department of Psychiatry, Government Medical College Calicut, Kerala</p>
+      </div>
+      <div class="collab-card">
+        <h3 class="collab-name">Dr Midhun Sidharthan</h3>
+        <p class="collab-inst">Department of Psychiatry, Government Medical College Calicut, Kerala</p>
+      </div>
+     <div class="collab-card">
         <h3 class="collab-name">Dr Varsha Vidyadharan</h3>
         <p class="collab-inst">Department of Psychiatry, Government Medical College Calicut, Kerala</p>
       </div>

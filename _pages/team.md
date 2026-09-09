@@ -454,7 +454,18 @@ header:
         <p class="card-years">Assistant Professor, Department of Psychiatry, IMHANS</p>
       </div>
 
-      <div class="member-card" data-type="current">
+   <div class="member-card" data-type="current">
+        <div class="card-photo">
+          <img src="{{ '/assets/headshots/rohith.jpg' | relative_url }}" loading="lazy" decoding="async" alt="RK" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">R</span>
+        </div>
+        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Rohith Kumar</h3>
+        <div class="card-divider"></div>
+        <p class="card-role">Post Doctoral Fellow </p>
+        <p class="card-years">Modelling Carbonyl Stress (DHR)</p>
+      </div>
+      
+  <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/aisha_new.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">AS</span>
@@ -465,29 +476,7 @@ header:
         <p class="card-years">Epigenetics of OCD drug response (ANRF)</p>
       </div>
 
-     <div class="member-card" data-type="current">
-        <div class="card-photo">
-          <img src="{{ '/assets/headshots/rohith.jpg' | relative_url }}" loading="lazy" decoding="async" alt="RK" class="team-headshot">
-          <span class="fallback-initials" aria-hidden="true">R</span>
-        </div>
-        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Rohith Kumar</h3>
-        <div class="card-divider"></div>
-        <p class="card-role">Post Doctoral Fellow </p>
-        <p class="card-years">Modelling Carbonyl Stress (DHR)</p>
-      </div>
-
     <div class="member-card" data-type="current">
-        <div class="card-photo">
-          <img src="{{ '/assets/headshots/' | relative_url }}" loading="lazy" decoding="async" alt="PTM" class="team-headshot">
-          <span class="fallback-initials" aria-hidden="true">R</span>
-        </div>
-        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a></h3>
-        <div class="card-divider"></div>
-        <p class="card-role">Project Associate</p>
-        <p class="card-years">Genetics of Childhood onset psychosis (DBT)</p>
-      </div>
-
-      <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/jasna.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JP</span>
@@ -497,8 +486,19 @@ header:
         <p class="card-role">Junior Research Fellow</p>
         <p class="card-years">ADHD and Sleep Genetics (ANRF)</p>
       </div>
+      
+    <div class="member-card" data-type="current">
+        <div class="card-photo">
+          <img src="{{ '/assets/headshots/prasun.jpg' | relative_url }}" loading="lazy" decoding="async" alt="PTM" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">R</span>
+        </div>
+        <h3 class="card-name"><a href="" target="_blank" rel="noopener noreferrer"></a>Prasun TM</h3>
+        <div class="card-divider"></div>
+        <p class="card-role">Project Associate</p>
+        <p class="card-years">Genetics of Childhood onset psychosis (DBT)</p>
+      </div>
 
-      <div class="member-card" data-type="current">
+  <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/ranjitha.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Ranjitha M" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">RM</span>
@@ -509,7 +509,7 @@ header:
         <p class="card-years">Cytogenetics</p>
       </div>
 
-      <div class="member-card" data-type="current">
+  <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/najiya.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Fathimath Najiya" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">FN</span>
@@ -518,9 +518,9 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Technical Assistant</p>
         <p class="card-years">Electrophysiology</p>
-      </div>
+  </div>
 
-      <div class="member-card" data-type="current">
+  <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/MIdhun.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Midhun Sidharthan" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">MS</span>
@@ -529,7 +529,7 @@ header:
         <div class="card-divider"></div>
         <p class="card-role">Visiting Researcher</p>
         <p class="card-years">Assistant Professor, Department of Psychiatry, Government Medical College Kozhikode</p>
-      </div>
+  </div>
 
       <div class="member-card" data-type="current">
         <div class="card-photo">

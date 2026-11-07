@@ -12,7 +12,7 @@ header:
 ## Selected Publications
 
 #### **2026**
-- James, S., Sasidharan, S.P., Das, A.G., Manakkadan, A., Vasanthakumari, S.C., Hariharan, S.V., Somaraj, S., Chandramohanan, P., Anilkumar, T.V., **Balan, S.** (2026). Evaluation of zebrafish (Danio rerio) as a potential experimental host for Rhinosporidium seeberi under laboratory exposure conditions. *Microbial Pathogenesis*. (Accepted).
+- James, S., Sasidharan, S.P., Das, A.G., Manakkadan, A., Vasanthakumari, S.C., Hariharan, S.V., Somaraj, S., Chandramohanan, P., Anilkumar, T.V., **Balan, S.**. Evaluation of zebrafish (Danio rerio) as a potential experimental host for Rhinosporidium seeberi under laboratory exposure conditions. *Microbial Pathogenesis*, (2026). [https://doi.org/10.1016/j.micpath.2026.108921](https://doi.org/10.1016/j.micpath.2026.108921)
   
 - Soman A, Dev SS, **Ravindren R**<sup>#</sup>. Phonemic Awareness Deficits in Specific Learning Disorder with Impairment in Reading in Malayalam: A Case-control Study. *Indian Journal of Psychological Medicine*, 2026;0(0). [https://doi.org/10.1177/02537176261480347](https://doi.org/10.1177/02537176261480347)
 

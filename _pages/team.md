@@ -551,7 +551,7 @@ header:
           <img src="{{ '/assets/headshots/jasmine.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JJ</span>
         </div>
-        <h3 class="card-name alumni"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Jasmine John</h3>
+        <h3 class="card-name alumni">Jasmine John</h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF), ADHD genetics</p>
         <p class="card-years">2024 – 2026</p>
@@ -563,7 +563,7 @@ header:
           <img src="{{ '/assets/headshots/anu.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Anusree A Kumar" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">AK</span>
         </div>
-        <h3 class="card-name alumni"><a href="https://orcid.org/0000-0002-2166-6114" target="_blank" rel="noopener noreferrer">Anusree A Kumar</h3>
+        <h3 class="card-name alumni">Anusree A Kumar</h3>
         <div class="card-divider"></div>
         <p class="card-role">Project Fellow (KSCSTE), Schizophrenia and sleep</p>
         <p class="card-years">2023 – 2026</p>

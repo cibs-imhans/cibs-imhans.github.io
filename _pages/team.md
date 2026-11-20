@@ -465,17 +465,6 @@ header:
         <p class="card-years">Modelling Carbonyl Stress (DHR)</p>
       </div>
       
-  <div class="member-card" data-type="current">
-        <div class="card-photo">
-          <img src="{{ '/assets/headshots/aisha_new.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
-          <span class="fallback-initials" aria-hidden="true">AS</span>
-        </div>
-        <h3 class="card-name"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3>
-        <div class="card-divider"></div>
-        <p class="card-role">Junior Research Fellow</p>
-        <p class="card-years">Epigenetics of OCD drug response (ANRF)</p>
-      </div>
-
     <div class="member-card" data-type="current">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/jasna.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Jasna" class="team-headshot">
@@ -543,6 +532,20 @@ header:
       </div>
 
       <!-- Alumni Section Elements -->
+
+     <div class="member-card hidden" data-type="alumni" aria-hidden="true">
+        <div class="card-photo">
+          <img src="{{ '/assets/headshots/aisha_new.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
+          <span class="fallback-initials" aria-hidden="true">JJ</span>
+        </div>
+        <h3 class="card-name alumni"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3></h3>
+        <div class="card-divider"></div>
+        <p class="card-role">Junior Research Fellow (ANRF)</p>
+        <p class="card-years">2023 – 2026</p>
+        <p class="card-now">Project Scientist, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru</p>
+      </div>
+
+      
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/jasmine.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">

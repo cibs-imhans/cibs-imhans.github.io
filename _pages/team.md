@@ -537,7 +537,7 @@ header:
         <div class="card-photo">
           <img src="{{ '/assets/headshots/aisha_new.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JJ</span>
-        </div>
+     </div>
         <h3 class="card-name alumni"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3>
         <div class="card-divider"></div>
         <p class="card-role">Junior Research Fellow (ANRF), OCD Epigenetics</p>
@@ -545,7 +545,6 @@ header:
         <p class="card-now">Project Scientist, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru</p>
       </div>
 
-      
       <div class="member-card hidden" data-type="alumni" aria-hidden="true">
         <div class="card-photo">
           <img src="{{ '/assets/headshots/jasmine.jpg' | relative_url }}" loading="lazy" decoding="async" alt="Jasmine John" class="team-headshot">
@@ -599,7 +598,7 @@ header:
           <img src="{{ '/assets/headshots/shibila.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Shibila A M" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">SA</span>
         </div>
-        <h3 class="card-name alumni"><a href="https://orcid.org/0000-0001-9868-6511" target="_blank" rel="noopener noreferrer">Shibila A M</h3>
+        <h3 class="card-name alumni">Shibila A M</h3>
         <div class="card-divider"></div>
         <p class="card-role">Technical Assistant (Electrophysiology)</p>
         <p class="card-years">2019 – 2025</p>

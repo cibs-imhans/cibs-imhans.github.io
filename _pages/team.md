@@ -538,9 +538,9 @@ header:
           <img src="{{ '/assets/headshots/aisha_new.jpeg' | relative_url }}" loading="lazy" decoding="async" alt="Aisha Shaju" class="team-headshot">
           <span class="fallback-initials" aria-hidden="true">JJ</span>
         </div>
-        <h3 class="card-name alumni"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3></h3>
+        <h3 class="card-name alumni"><a href="https://orcid.org/0009-0003-8697-5254" target="_blank" rel="noopener noreferrer">Aisha Shaju</a></h3>
         <div class="card-divider"></div>
-        <p class="card-role">Junior Research Fellow (ANRF)</p>
+        <p class="card-role">Junior Research Fellow (ANRF), OCD Epigenetics</p>
         <p class="card-years">2023 – 2026</p>
         <p class="card-now">Project Scientist, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru</p>
       </div>
@@ -553,7 +553,7 @@ header:
         </div>
         <h3 class="card-name alumni">Jasmine John</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Junior Research Fellow (ANRF)</p>
+        <p class="card-role">Junior Research Fellow (ANRF), ADHD genetics</p>
         <p class="card-years">2024 – 2026</p>
         <p class="card-now">PhD student, National Brain Research Centre (NBRC), Manesar</p>
       </div>
@@ -565,7 +565,7 @@ header:
         </div>
         <h3 class="card-name alumni">Anusree A Kumar</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Project Fellow (KSCSTE)</p>
+        <p class="card-role">Project Fellow (KSCSTE), Schizophrenia and sleep</p>
         <p class="card-years">2023 – 2026</p>
         <p class="card-now">PhD student, Tohoku University, Japan</p>
       </div>
@@ -577,7 +577,7 @@ header:
         </div>
         <h3 class="card-name alumni">Shilpa O</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Visiting Researcher <br>(Post-Doctoral Researcher)</p>
+        <p class="card-role">Visiting Researcher <br>(Post-Doctoral Researcher), Autism Genetics</p>
         <p class="card-years">2023 – 2025</p>
         <p class="card-now">Assistant Professor, NITTE University, Mangalore</p>
       </div>
@@ -589,7 +589,7 @@ header:
         </div>
         <h3 class="card-name alumni">Varun T K</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Project Fellow<br>(SERB-SURE)</p>
+        <p class="card-role">Project Fellow<br>(SERB-SURE), Sleep genetics</p>
         <p class="card-years">2024 – 2025</p>
         <p class="card-now">Data Scientist, Yenepoya University, Mangalore</p>
       </div>
@@ -613,7 +613,7 @@ header:
         </div>
         <h3 class="card-name alumni">Niketha Manoj</h3>
         <div class="card-divider"></div>
-        <p class="card-role">Junior Research Fellow (ANRF)</p>
+        <p class="card-role">Junior Research Fellow (ANRF), ADHD genetics</p>
         <p class="card-years">2023 – 2024</p>
         <p class="card-now">PhD Student, NIT Calicut, Kerala</p>
       </div>
